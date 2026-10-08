@@ -1,0 +1,13 @@
+# usecase/cache.py, 2026-10-07. 8 real complaints per case, 20 for case D (added 2026-10-08).
+NIMBLE (nimble)
+A new complaint, one question                              median  2.567 s   tokens 580
+B identical request again                                  median  0.105 s   tokens 580
+C same complaint, a different question                     median  1.824 s   tokens 412
+D first 100 characters of a new complaint, three teams     median  1.059 s   tokens 228
+E same complaint with a sentence added at the end          median  2.544 s   tokens 582
+F same complaint with a word added at the start            median  2.561 s   tokens 582
+G new complaint, three questions in one request            median  3.355 s   tokens 1870
+QWEN, reasoning off (qwen3.5:9b-q8_0)
+H instructions first, then a new complaint                 median  2.385 s   tokens 406
+I identical request again                                  median  0.637 s   tokens 429
+J complaint first, then instructions                       median  2.209 s   tokens 360

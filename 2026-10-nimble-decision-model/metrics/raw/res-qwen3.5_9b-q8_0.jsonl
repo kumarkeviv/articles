@@ -1,0 +1,900 @@
+{"pred": "Debt collection", "p": 0.8823687214098392, "raw": null, "in_tok": 265, "out_tok": 11, "id": 3090820, "gold": "Debt collection", "sec": 1.8514920419984264}
+{"pred": "Mortgage", "p": 0.9745842919716673, "raw": null, "in_tok": 329, "out_tok": 11, "id": 5983778, "gold": "Mortgage", "sec": 2.1067816669965396}
+{"pred": "Debt collection", "p": 0.5624168138789305, "raw": null, "in_tok": 320, "out_tok": 11, "id": 8233123, "gold": "Debt collection", "sec": 2.0015549169911537}
+{"pred": "Credit card", "p": 0.8564846740646984, "raw": null, "in_tok": 327, "out_tok": 10, "id": 5686477, "gold": "Personal loan", "sec": 2.073505500011379}
+{"pred": "Vehicle loan", "p": 0.8840547386617834, "raw": null, "in_tok": 255, "out_tok": 10, "id": 7334205, "gold": "Vehicle loan", "sec": 1.6877755000023171}
+{"pred": "Vehicle loan", "p": 0.9486437742664886, "raw": null, "in_tok": 318, "out_tok": 10, "id": 3299287, "gold": "Vehicle loan", "sec": 1.9512279159971513}
+{"pred": "Credit reporting", "p": 0.8788086281943828, "raw": null, "in_tok": 295, "out_tok": 10, "id": 6716882, "gold": "Credit reporting", "sec": 1.9405696670000907}
+{"pred": "Money transfer", "p": 0.9294569669891751, "raw": null, "in_tok": 510, "out_tok": 10, "id": 4368842, "gold": "Money transfer", "sec": 2.7519002500048373}
+{"pred": "Personal loan", "p": 0.9464291633810684, "raw": null, "in_tok": 329, "out_tok": 10, "id": 6906864, "gold": "Personal loan", "sec": 2.0937953329994343}
+{"pred": "Credit card", "p": 0.8100116177934074, "raw": null, "in_tok": 216, "out_tok": 10, "id": 4554888, "gold": "Credit reporting", "sec": 1.5510257910063956}
+{"pred": "Vehicle loan", "p": 0.9106024277066279, "raw": null, "in_tok": 588, "out_tok": 10, "id": 3502696, "gold": "Vehicle loan", "sec": 3.1115052920067683}
+{"pred": "Credit reporting", "p": 0.9422458292367291, "raw": null, "in_tok": 212, "out_tok": 10, "id": 6848972, "gold": "Credit reporting", "sec": 1.5713603340118425}
+{"pred": "Vehicle loan", "p": 0.25472754988306384, "raw": null, "in_tok": 237, "out_tok": 10, "id": 4231648, "gold": "Bank account", "sec": 1.6913232090009842}
+{"pred": "Credit card", "p": 0.9278190079082551, "raw": null, "in_tok": 353, "out_tok": 10, "id": 7747595, "gold": "Credit card", "sec": 2.104193499995745}
+{"pred": "Credit reporting", "p": 0.8140266545302584, "raw": null, "in_tok": 245, "out_tok": 10, "id": 3085939, "gold": "Personal loan", "sec": 1.715672624995932}
+{"pred": "Money transfer", "p": 0.8205057631065772, "raw": null, "in_tok": 508, "out_tok": 13, "id": 4226940, "gold": "Money transfer", "sec": 2.9393301669915672}
+{"pred": "Credit reporting", "p": 0.9525796515905511, "raw": null, "in_tok": 252, "out_tok": 10, "id": 3784359, "gold": "Credit reporting", "sec": 1.714248292002594}
+{"pred": "Money transfer", "p": 0.47292593062579974, "raw": null, "in_tok": 279, "out_tok": 13, "id": 3409137, "gold": "Money transfer", "sec": 2.0076486250036396}
+{"pred": "Credit reporting", "p": 0.9346221667164035, "raw": null, "in_tok": 239, "out_tok": 10, "id": 6585817, "gold": "Debt collection", "sec": 1.7017561660031788}
+{"pred": "Bank account", "p": 0.9625139491911933, "raw": null, "in_tok": 346, "out_tok": 10, "id": 3786430, "gold": "Bank account", "sec": 2.0903419999958714}
+{"pred": "Money transfer", "p": 0.6031704266283561, "raw": null, "in_tok": 270, "out_tok": 10, "id": 2829470, "gold": "Money transfer", "sec": 1.8301639590063132}
+{"pred": "Money transfer", "p": 0.7925790938887143, "raw": null, "in_tok": 358, "out_tok": 10, "id": 7320669, "gold": "Money transfer", "sec": 2.214670750006917}
+{"pred": "Mortgage", "p": 0.9848928991354089, "raw": null, "in_tok": 230, "out_tok": 11, "id": 6546166, "gold": "Mortgage", "sec": 1.7514752499992028}
+{"pred": "Vehicle loan", "p": 0.5423106438745007, "raw": null, "in_tok": 410, "out_tok": 10, "id": 3634400, "gold": "Vehicle loan", "sec": 2.359035417000996}
+{"pred": "Personal loan", "p": 0.6343818960738815, "raw": null, "in_tok": 309, "out_tok": 10, "id": 7344767, "gold": "Personal loan", "sec": 1.9719960420043208}
+{"pred": "Money transfer", "p": 0.6975416289437589, "raw": null, "in_tok": 365, "out_tok": 10, "id": 2792441, "gold": "Money transfer", "sec": 2.2318943749996834}
+{"pred": "Mortgage", "p": 0.9371602744034799, "raw": null, "in_tok": 456, "out_tok": 11, "id": 6866730, "gold": "Mortgage", "sec": 2.703837791006663}
+{"pred": "Bank account", "p": 0.7195459725140674, "raw": null, "in_tok": 242, "out_tok": 10, "id": 3409258, "gold": "Credit card", "sec": 1.7052589999948395}
+{"pred": "Money transfer", "p": 0.9533815423404435, "raw": null, "in_tok": 522, "out_tok": 10, "id": 5412769, "gold": "Money transfer", "sec": 2.886388624989195}
+{"pred": "Student loan", "p": 0.926165791253624, "raw": null, "in_tok": 353, "out_tok": 10, "id": 5114945, "gold": "Student loan", "sec": 2.1113347499922384}
+{"pred": "Personal loan", "p": 0.8731283007618575, "raw": null, "in_tok": 563, "out_tok": 10, "id": 6788063, "gold": "Personal loan", "sec": 3.042861666996032}
+{"pred": "Credit card", "p": 0.9028236685798786, "raw": null, "in_tok": 495, "out_tok": 10, "id": 7343165, "gold": "Credit card", "sec": 2.7814553750067716}
+{"pred": "Vehicle loan", "p": 0.454912052020828, "raw": null, "in_tok": 436, "out_tok": 10, "id": 3664420, "gold": "Vehicle loan", "sec": 2.5024774159974186}
+{"pred": "Credit card", "p": 0.9199556349863037, "raw": null, "in_tok": 342, "out_tok": 10, "id": 4231720, "gold": "Credit card", "sec": 2.102144958000281}
+{"pred": "Bank account", "p": 0.9531507360972111, "raw": null, "in_tok": 219, "out_tok": 10, "id": 4283004, "gold": "Money transfer", "sec": 1.5689307499997085}
+{"pred": "Mortgage", "p": 0.9719206199882455, "raw": null, "in_tok": 312, "out_tok": 11, "id": 3293886, "gold": "Mortgage", "sec": 2.0104332500050077}
+{"pred": "Credit card", "p": 0.9286604061717231, "raw": null, "in_tok": 485, "out_tok": 10, "id": 5010156, "gold": "Credit card", "sec": 2.770824999999604}
+{"pred": "Personal loan", "p": 0.9453135852877241, "raw": null, "in_tok": 505, "out_tok": 10, "id": 5624163, "gold": "Personal loan", "sec": 2.795073332992615}
+{"pred": "Mortgage", "p": 0.9056634966790387, "raw": null, "in_tok": 502, "out_tok": 11, "id": 3212618, "gold": "Student loan", "sec": 2.824608791008359}
+{"pred": "Mortgage", "p": 0.9693123865779618, "raw": null, "in_tok": 566, "out_tok": 11, "id": 5898802, "gold": "Mortgage", "sec": 3.094107333003194}
+{"pred": "Student loan", "p": 0.9664588164524673, "raw": null, "in_tok": 304, "out_tok": 10, "id": 2916012, "gold": "Student loan", "sec": 1.9613820829981705}
+{"pred": "Credit reporting", "p": 0.9505280883924486, "raw": null, "in_tok": 341, "out_tok": 10, "id": 6815262, "gold": "Credit reporting", "sec": 2.1074698329903185}
+{"pred": "Credit card", "p": 0.7611017627633198, "raw": null, "in_tok": 307, "out_tok": 10, "id": 4144568, "gold": "Credit card", "sec": 1.9789049999963026}
+{"pred": "Mortgage", "p": 0.9716195351989083, "raw": null, "in_tok": 206, "out_tok": 11, "id": 5418756, "gold": "Mortgage", "sec": 1.6076672500057612}
+{"pred": "Vehicle loan", "p": 0.9446466931219173, "raw": null, "in_tok": 384, "out_tok": 10, "id": 7896449, "gold": "Vehicle loan", "sec": 2.2242026250023628}
+{"pred": "Student loan", "p": 0.9055021961284841, "raw": null, "in_tok": 397, "out_tok": 10, "id": 6788246, "gold": "Student loan", "sec": 2.3694129579962464}
+{"pred": "Personal loan", "p": 0.8929171788209227, "raw": null, "in_tok": 305, "out_tok": 10, "id": 7518229, "gold": "Personal loan", "sec": 1.9624029169935966}
+{"pred": "Vehicle loan", "p": 0.8965352617907593, "raw": null, "in_tok": 259, "out_tok": 10, "id": 5701650, "gold": "Personal loan", "sec": 1.7211415420024423}
+{"pred": "Mortgage", "p": 0.9811949312802679, "raw": null, "in_tok": 363, "out_tok": 11, "id": 7860111, "gold": "Mortgage", "sec": 2.2714604170032544}
+{"pred": "Bank account", "p": 0.4202294443943138, "raw": null, "in_tok": 309, "out_tok": 10, "id": 7749236, "gold": "Money transfer", "sec": 1.9652278749999823}
+{"pred": "Mortgage", "p": 0.9754646355235339, "raw": null, "in_tok": 596, "out_tok": 11, "id": 4085342, "gold": "Mortgage", "sec": 3.220259833004093}
+{"pred": "Personal loan", "p": 0.6944132910403722, "raw": null, "in_tok": 331, "out_tok": 10, "id": 6730416, "gold": "Personal loan", "sec": 2.10141212499002}
+{"pred": "Mortgage", "p": 0.9715885335198491, "raw": null, "in_tok": 379, "out_tok": 11, "id": 8236519, "gold": "Mortgage", "sec": 2.278884958999697}
+{"pred": "Student loan", "p": 0.8969636260725722, "raw": null, "in_tok": 300, "out_tok": 10, "id": 3548295, "gold": "Student loan", "sec": 1.9674219580047065}
+{"pred": "Debt collection", "p": 0.9840484772201489, "raw": null, "in_tok": 294, "out_tok": 11, "id": 4232289, "gold": "Debt collection", "sec": 2.005959708010778}
+{"pred": "Money transfer", "p": 0.47824391183239134, "raw": null, "in_tok": 505, "out_tok": 10, "id": 5648546, "gold": "Money transfer", "sec": 2.7722628750052536}
+{"pred": "Credit card", "p": 0.8916878381522053, "raw": null, "in_tok": 568, "out_tok": 10, "id": 7372080, "gold": "Credit card", "sec": 3.0425843330012867}
+{"pred": "Credit card", "p": 0.9223201833233494, "raw": null, "in_tok": 607, "out_tok": 10, "id": 2988459, "gold": "Credit card", "sec": 3.187968458994874}
+{"pred": "Bank account", "p": 0.6388868493488281, "raw": null, "in_tok": 555, "out_tok": 10, "id": 3872191, "gold": "Bank account", "sec": 3.03410449999501}
+{"pred": "Debt collection", "p": 0.4397066723562605, "raw": null, "in_tok": 254, "out_tok": 11, "id": 7370489, "gold": "Vehicle loan", "sec": 1.7604278750077356}
+{"pred": "Credit reporting", "p": 0.9651622954887646, "raw": null, "in_tok": 209, "out_tok": 10, "id": 6848260, "gold": "Credit reporting", "sec": 1.565447207991383}
+{"pred": "Vehicle loan", "p": 0.9349594670547976, "raw": null, "in_tok": 258, "out_tok": 10, "id": 6297456, "gold": "Vehicle loan", "sec": 1.708581957995193}
+{"pred": "Vehicle loan", "p": 0.9585720624103689, "raw": null, "in_tok": 366, "out_tok": 10, "id": 7149772, "gold": "Vehicle loan", "sec": 2.2154638749925653}
+{"pred": "Student loan", "p": 0.8308723393696179, "raw": null, "in_tok": 327, "out_tok": 10, "id": 4626236, "gold": "Student loan", "sec": 2.0876963329938008}
+{"pred": "Credit card", "p": 0.8960574418481987, "raw": null, "in_tok": 511, "out_tok": 10, "id": 5574252, "gold": "Credit card", "sec": 2.782180459005758}
+{"pred": "Vehicle loan", "p": 0.8581469135373043, "raw": null, "in_tok": 440, "out_tok": 10, "id": 4197353, "gold": "Vehicle loan", "sec": 2.4960768749879207}
+{"pred": "Mortgage", "p": 0.9688876748115389, "raw": null, "in_tok": 241, "out_tok": 11, "id": 4359590, "gold": "Mortgage", "sec": 1.7512629999982892}
+{"pred": "Credit reporting", "p": 0.9282923073547642, "raw": null, "in_tok": 236, "out_tok": 10, "id": 7959411, "gold": "Debt collection", "sec": 1.6830179169919575}
+{"pred": "Vehicle loan", "p": 0.9247653400752914, "raw": null, "in_tok": 350, "out_tok": 10, "id": 6716124, "gold": "Vehicle loan", "sec": 2.098884209000971}
+{"pred": "Student loan", "p": 0.8318939235119802, "raw": null, "in_tok": 498, "out_tok": 10, "id": 2921162, "gold": "Student loan", "sec": 2.764771624992136}
+{"pred": "Credit reporting", "p": 0.9349866295892313, "raw": null, "in_tok": 306, "out_tok": 10, "id": 5830581, "gold": "Credit reporting", "sec": 1.9634354159934446}
+{"pred": "Debt collection", "p": 0.9776705100070644, "raw": null, "in_tok": 519, "out_tok": 11, "id": 3722492, "gold": "Debt collection", "sec": 2.9560139999957755}
+{"pred": "Student loan", "p": 0.8999325384841859, "raw": null, "in_tok": 313, "out_tok": 10, "id": 5613996, "gold": "Student loan", "sec": 1.9612046669935808}
+{"pred": "Bank account", "p": 0.9563746036557695, "raw": null, "in_tok": 447, "out_tok": 10, "id": 3320128, "gold": "Mortgage", "sec": 2.499589916988043}
+{"pred": "Money transfer", "p": 0.6532627787680186, "raw": null, "in_tok": 413, "out_tok": 10, "id": 6315556, "gold": "Money transfer", "sec": 2.3743622500041965}
+{"pred": "Vehicle loan", "p": 0.9246705431694228, "raw": null, "in_tok": 278, "out_tok": 10, "id": 7543029, "gold": "Vehicle loan", "sec": 1.8476603340095608}
+{"pred": "Credit reporting", "p": 0.8635589475259196, "raw": null, "in_tok": 238, "out_tok": 10, "id": 7506008, "gold": "Credit reporting", "sec": 1.702357749993098}
+{"pred": "Personal loan", "p": 0.4409666948850761, "raw": null, "in_tok": 381, "out_tok": 10, "id": 3327543, "gold": "Personal loan", "sec": 2.222074707999127}
+{"pred": "Debt collection", "p": 0.9424352237787025, "raw": null, "in_tok": 228, "out_tok": 11, "id": 6073332, "gold": "Debt collection", "sec": 1.612324166999315}
+{"pred": "Credit card", "p": 0.611962359155047, "raw": null, "in_tok": 622, "out_tok": 10, "id": 8234939, "gold": "Bank account", "sec": 3.3064972499996657}
+{"pred": "Mortgage", "p": 0.9148676774433734, "raw": null, "in_tok": 299, "out_tok": 11, "id": 7626619, "gold": "Mortgage", "sec": 2.0173694580007577}
+{"pred": "Credit reporting", "p": 0.6994374140079119, "raw": null, "in_tok": 221, "out_tok": 13, "id": 5884142, "gold": "Vehicle loan", "sec": 1.7357114170008572}
+{"pred": "Debt collection", "p": 0.9686658564035672, "raw": null, "in_tok": 322, "out_tok": 11, "id": 3172409, "gold": "Debt collection", "sec": 2.0183244999934686}
+{"pred": "Vehicle loan", "p": 0.9318858722616078, "raw": null, "in_tok": 356, "out_tok": 10, "id": 2829511, "gold": "Vehicle loan", "sec": 2.1059237500012387}
+{"pred": "Credit card", "p": 0.6750785138504247, "raw": null, "in_tok": 375, "out_tok": 10, "id": 5148032, "gold": "Mortgage", "sec": 2.2483955420029815}
+{"pred": "Credit card", "p": 0.8895399424863709, "raw": null, "in_tok": 226, "out_tok": 10, "id": 7399779, "gold": "Money transfer", "sec": 1.5604145000106655}
+{"pred": "Student loan", "p": 0.9713841462376276, "raw": null, "in_tok": 268, "out_tok": 10, "id": 7846457, "gold": "Student loan", "sec": 1.8228371669974877}
+{"pred": "Credit card", "p": 0.9075073729911336, "raw": null, "in_tok": 324, "out_tok": 10, "id": 7377527, "gold": "Credit card", "sec": 1.9516635839972878}
+{"pred": "Credit reporting", "p": 0.9608579719830553, "raw": null, "in_tok": 304, "out_tok": 10, "id": 4635466, "gold": "Debt collection", "sec": 1.9782154999993509}
+{"pred": "Bank account", "p": 0.9552870282672961, "raw": null, "in_tok": 314, "out_tok": 10, "id": 5604168, "gold": "Bank account", "sec": 1.969524125001044}
+{"pred": "Credit card", "p": 0.9148392629975016, "raw": null, "in_tok": 424, "out_tok": 10, "id": 6421711, "gold": "Credit card", "sec": 2.4972934580000583}
+{"pred": "Credit card", "p": 0.9387368432665728, "raw": null, "in_tok": 485, "out_tok": 10, "id": 6911656, "gold": "Credit card", "sec": 2.7824014999932842}
+{"pred": "Bank account", "p": 0.9659511223905263, "raw": null, "in_tok": 352, "out_tok": 10, "id": 7938735, "gold": "Bank account", "sec": 2.117333292000694}
+{"pred": "Mortgage", "p": 0.9771187233584687, "raw": null, "in_tok": 341, "out_tok": 11, "id": 3618108, "gold": "Mortgage", "sec": 2.14855729098781}
+{"pred": "Vehicle loan", "p": 0.9083990011539066, "raw": null, "in_tok": 363, "out_tok": 10, "id": 3205216, "gold": "Vehicle loan", "sec": 2.2312269999965793}
+{"pred": "Bank account", "p": 0.8415971554124343, "raw": null, "in_tok": 393, "out_tok": 13, "id": 3653427, "gold": "Money transfer", "sec": 2.533799041993916}
+{"pred": "Bank account", "p": 0.6304025889264163, "raw": null, "in_tok": 299, "out_tok": 10, "id": 4771602, "gold": "Bank account", "sec": 1.963945750001585}
+{"pred": "Debt collection", "p": 0.8836013270888607, "raw": null, "in_tok": 371, "out_tok": 11, "id": 6032517, "gold": "Personal loan", "sec": 2.2804378750006435}
+{"pred": "Debt collection", "p": 0.5510222991166099, "raw": null, "in_tok": 406, "out_tok": 11, "id": 3631142, "gold": "Debt collection", "sec": 2.4298333330079913}
+{"pred": "Vehicle loan", "p": 0.9403755971314819, "raw": null, "in_tok": 256, "out_tok": 10, "id": 7400321, "gold": "Vehicle loan", "sec": 1.7253992920013843}
+{"pred": "Credit reporting", "p": 0.8970523676762506, "raw": null, "in_tok": 230, "out_tok": 10, "id": 6032410, "gold": "Debt collection", "sec": 1.6989340000000084}
+{"pred": "Credit reporting", "p": 0.955792750090904, "raw": null, "in_tok": 238, "out_tok": 10, "id": 4598445, "gold": "Credit reporting", "sec": 1.7045674169930862}
+{"pred": "Debt collection", "p": 0.983436853660847, "raw": null, "in_tok": 382, "out_tok": 11, "id": 6999444, "gold": "Debt collection", "sec": 2.2790425830025924}
+{"pred": "Bank account", "p": 0.892243618631388, "raw": null, "in_tok": 581, "out_tok": 10, "id": 3299238, "gold": "Bank account", "sec": 3.179748832990299}
+{"pred": "Credit card", "p": 0.8775653106534745, "raw": null, "in_tok": 363, "out_tok": 10, "id": 3537185, "gold": "Credit card", "sec": 2.24429354199674}
+{"pred": "Credit reporting", "p": 0.9335325045918331, "raw": null, "in_tok": 760, "out_tok": 10, "id": 6209369, "gold": "Credit reporting", "sec": 3.889771832997212}
+{"pred": "Bank account", "p": 0.7331410102912341, "raw": null, "in_tok": 458, "out_tok": 10, "id": 5629138, "gold": "Money transfer", "sec": 2.640125791003811}
+{"pred": "Credit card", "p": 0.9031519583400341, "raw": null, "in_tok": 429, "out_tok": 10, "id": 7709842, "gold": "Credit card", "sec": 2.5039306670078076}
+{"pred": "Vehicle loan", "p": 0.9283563823235134, "raw": null, "in_tok": 344, "out_tok": 10, "id": 5805207, "gold": "Vehicle loan", "sec": 2.1034772910061292}
+{"pred": "Money transfer", "p": 0.9469819448697587, "raw": null, "in_tok": 256, "out_tok": 10, "id": 3747824, "gold": "Money transfer", "sec": 1.6971681660070317}
+{"pred": "Credit reporting", "p": 0.9233379035978727, "raw": null, "in_tok": 337, "out_tok": 10, "id": 4793506, "gold": "Vehicle loan", "sec": 2.08912987500662}
+{"pred": "Money transfer", "p": 0.9271838311209614, "raw": null, "in_tok": 506, "out_tok": 10, "id": 5748556, "gold": "Money transfer", "sec": 2.7651157499931287}
+{"pred": "Vehicle loan", "p": 0.8918473472091444, "raw": null, "in_tok": 225, "out_tok": 10, "id": 7393904, "gold": "Vehicle loan", "sec": 1.5691764999937732}
+{"pred": "Vehicle loan", "p": 0.9449988350930715, "raw": null, "in_tok": 233, "out_tok": 10, "id": 6597586, "gold": "Vehicle loan", "sec": 1.6970021659944905}
+{"pred": "Mortgage", "p": 0.9692687896583942, "raw": null, "in_tok": 538, "out_tok": 11, "id": 3477985, "gold": "Mortgage", "sec": 2.9581367089995183}
+{"pred": "Mortgage", "p": 0.9809589960815062, "raw": null, "in_tok": 553, "out_tok": 11, "id": 4481711, "gold": "Mortgage", "sec": 3.082982332998654}
+{"pred": "Student loan", "p": 0.866694715344465, "raw": null, "in_tok": 436, "out_tok": 10, "id": 2963125, "gold": "Student loan", "sec": 2.494561750005232}
+{"pred": "Student loan", "p": 0.945692464768371, "raw": null, "in_tok": 207, "out_tok": 10, "id": 4679584, "gold": "Student loan", "sec": 1.5630252919945633}
+{"pred": "Debt collection", "p": 0.9658530233067529, "raw": null, "in_tok": 439, "out_tok": 14, "id": 5301469, "gold": "Debt collection", "sec": 2.7033748340036254}
+{"pred": "Student loan", "p": 0.9207567979439919, "raw": null, "in_tok": 426, "out_tok": 10, "id": 5574061, "gold": "Student loan", "sec": 2.5055387079919456}
+{"pred": "Bank account", "p": 0.954548081905162, "raw": null, "in_tok": 380, "out_tok": 10, "id": 2826334, "gold": "Bank account", "sec": 2.2434427500120364}
+{"pred": "Credit card", "p": 0.4419435876773201, "raw": null, "in_tok": 363, "out_tok": 10, "id": 3969123, "gold": "Money transfer", "sec": 2.232329791004304}
+{"pred": "Credit card", "p": 0.926158479368918, "raw": null, "in_tok": 249, "out_tok": 10, "id": 4364717, "gold": "Credit card", "sec": 1.7182791249942966}
+{"pred": "Credit card", "p": 0.4821783946347733, "raw": null, "in_tok": 278, "out_tok": 10, "id": 3466811, "gold": "Money transfer", "sec": 1.823966833006125}
+{"pred": "Bank account", "p": 0.9379711620233067, "raw": null, "in_tok": 360, "out_tok": 10, "id": 7006829, "gold": "Bank account", "sec": 2.2133842909970554}
+{"pred": "Personal loan", "p": 0.9079907032498329, "raw": null, "in_tok": 349, "out_tok": 13, "id": 4074234, "gold": "Personal loan", "sec": 2.2843211660074303}
+{"pred": "Mortgage", "p": 0.978725025525133, "raw": null, "in_tok": 361, "out_tok": 11, "id": 6906067, "gold": "Mortgage", "sec": 2.280251040996518}
+{"pred": "Credit card", "p": 0.9155752435018515, "raw": null, "in_tok": 361, "out_tok": 13, "id": 6297764, "gold": "Bank account", "sec": 2.413497333007399}
+{"pred": "Personal loan", "p": 0.9017521794569294, "raw": null, "in_tok": 274, "out_tok": 10, "id": 3281504, "gold": "Personal loan", "sec": 1.8299784170085331}
+{"pred": "Personal loan", "p": 0.4345593117761114, "raw": null, "in_tok": 423, "out_tok": 10, "id": 4163634, "gold": "Personal loan", "sec": 2.4808922079973854}
+{"pred": "Student loan", "p": 0.9015050973222872, "raw": null, "in_tok": 222, "out_tok": 10, "id": 3420588, "gold": "Student loan", "sec": 1.5678952499874867}
+{"pred": "Debt collection", "p": 0.8446599341263211, "raw": null, "in_tok": 260, "out_tok": 11, "id": 7777182, "gold": "Debt collection", "sec": 1.7392262080102228}
+{"pred": "Student loan", "p": 0.8993621338699671, "raw": null, "in_tok": 247, "out_tok": 10, "id": 3926570, "gold": "Student loan", "sec": 1.6873328750079963}
+{"pred": "Credit reporting", "p": 0.9636665021416729, "raw": null, "in_tok": 219, "out_tok": 10, "id": 7637692, "gold": "Credit reporting", "sec": 1.5691840420040535}
+{"pred": "Bank account", "p": 0.9652010626038449, "raw": null, "in_tok": 328, "out_tok": 10, "id": 8236715, "gold": "Personal loan", "sec": 2.084731292008655}
+{"pred": "Mortgage", "p": 0.9721936046017046, "raw": null, "in_tok": 578, "out_tok": 11, "id": 3768577, "gold": "Mortgage", "sec": 3.0933335419977084}
+{"pred": "Credit reporting", "p": 0.6538980813854999, "raw": null, "in_tok": 304, "out_tok": 10, "id": 5589891, "gold": "Debt collection", "sec": 1.981507167001837}
+{"pred": "Debt collection", "p": 0.9434644455561818, "raw": null, "in_tok": 513, "out_tok": 11, "id": 8137105, "gold": "Personal loan", "sec": 2.8218637079990003}
+{"pred": "Mortgage", "p": 0.9852211147047304, "raw": null, "in_tok": 560, "out_tok": 11, "id": 4439550, "gold": "Mortgage", "sec": 3.1038629579998087}
+{"pred": "Student loan", "p": 0.6903798037484469, "raw": null, "in_tok": 240, "out_tok": 10, "id": 2864519, "gold": "Student loan", "sec": 1.7117211250006221}
+{"pred": "Mortgage", "p": 0.9869693555629279, "raw": null, "in_tok": 250, "out_tok": 11, "id": 7876013, "gold": "Mortgage", "sec": 1.7441662089986494}
+{"pred": "Credit card", "p": 0.8485461901892694, "raw": null, "in_tok": 265, "out_tok": 10, "id": 3663983, "gold": "Credit card", "sec": 1.8223870000074385}
+{"pred": "Credit card", "p": 0.9245389025655034, "raw": null, "in_tok": 587, "out_tok": 10, "id": 7337693, "gold": "Credit card", "sec": 3.1632427080039633}
+{"pred": "Credit card", "p": 0.7881894258913015, "raw": null, "in_tok": 346, "out_tok": 10, "id": 3749019, "gold": "Personal loan", "sec": 2.399089124999591}
+{"pred": "Debt collection", "p": 0.640539768774454, "raw": null, "in_tok": 237, "out_tok": 14, "id": 3116141, "gold": "Debt collection", "sec": 1.9072467920050258}
+{"pred": "Money transfer", "p": 0.7746357040655498, "raw": null, "in_tok": 406, "out_tok": 10, "id": 3661444, "gold": "Money transfer", "sec": 2.3703683339990675}
+{"pred": "Credit reporting", "p": 0.9410102514270866, "raw": null, "in_tok": 558, "out_tok": 10, "id": 7913337, "gold": "Debt collection", "sec": 3.335426792007638}
+{"pred": "Vehicle loan", "p": 0.9211214411460283, "raw": null, "in_tok": 276, "out_tok": 10, "id": 3383256, "gold": "Vehicle loan", "sec": 1.858261916990159}
+{"pred": "Bank account", "p": 0.844145254753659, "raw": null, "in_tok": 225, "out_tok": 10, "id": 3338569, "gold": "Money transfer", "sec": 1.5517125420010416}
+{"pred": "Student loan", "p": 0.8636512323244706, "raw": null, "in_tok": 267, "out_tok": 10, "id": 6242253, "gold": "Student loan", "sec": 1.8400920840067556}
+{"pred": "Debt collection", "p": 0.9778014884722355, "raw": null, "in_tok": 213, "out_tok": 11, "id": 4196625, "gold": "Debt collection", "sec": 1.605150290997699}
+{"pred": "Credit card", "p": 0.9522097595190724, "raw": null, "in_tok": 352, "out_tok": 10, "id": 3436159, "gold": "Credit card", "sec": 2.120346832991345}
+{"pred": "Bank account", "p": 0.959746970378216, "raw": null, "in_tok": 280, "out_tok": 10, "id": 3536125, "gold": "Bank account", "sec": 1.8583166250027716}
+{"pred": "Vehicle loan", "p": 0.6632998738440121, "raw": null, "in_tok": 364, "out_tok": 10, "id": 5301840, "gold": "Vehicle loan", "sec": 2.214311791001819}
+{"pred": "Credit card", "p": 0.9146065983083691, "raw": null, "in_tok": 287, "out_tok": 10, "id": 3730149, "gold": "Credit card", "sec": 1.880071166990092}
+{"pred": "Personal loan", "p": 0.9520426442482859, "raw": null, "in_tok": 223, "out_tok": 10, "id": 4785056, "gold": "Personal loan", "sec": 1.5546153340110322}
+{"pred": "Bank account", "p": 0.899062019609281, "raw": null, "in_tok": 441, "out_tok": 10, "id": 4258049, "gold": "Bank account", "sec": 2.485676374999457}
+{"pred": "Mortgage", "p": 0.9779038685146099, "raw": null, "in_tok": 467, "out_tok": 11, "id": 6163243, "gold": "Mortgage", "sec": 2.7046502500015777}
+{"pred": "Credit card", "p": 0.2911236871019423, "raw": null, "in_tok": 247, "out_tok": 10, "id": 2926772, "gold": "Personal loan", "sec": 1.7202417499938747}
+{"pred": "Debt collection", "p": 0.986501561834349, "raw": null, "in_tok": 258, "out_tok": 11, "id": 2936773, "gold": "Personal loan", "sec": 1.7474574999941979}
+{"pred": "Debt collection", "p": 0.8542120131780155, "raw": null, "in_tok": 479, "out_tok": 11, "id": 3073952, "gold": "Student loan", "sec": 2.6827690840000287}
+{"pred": "Credit card", "p": 0.9271557882841596, "raw": null, "in_tok": 473, "out_tok": 10, "id": 7362696, "gold": "Credit card", "sec": 2.6464032080111792}
+{"pred": "Student loan", "p": 0.8829587788927915, "raw": null, "in_tok": 468, "out_tok": 10, "id": 5278758, "gold": "Student loan", "sec": 2.6424100830045063}
+{"pred": "Credit card", "p": 0.9008086956291311, "raw": null, "in_tok": 500, "out_tok": 10, "id": 3617037, "gold": "Credit card", "sec": 2.782912374997977}
+{"pred": "Credit reporting", "p": 0.9630504836594102, "raw": null, "in_tok": 216, "out_tok": 10, "id": 6737720, "gold": "Credit reporting", "sec": 1.5993226249993313}
+{"pred": "Personal loan", "p": 0.5815802415543948, "raw": null, "in_tok": 268, "out_tok": 10, "id": 5302924, "gold": "Personal loan", "sec": 1.8209625000017695}
+{"pred": "Personal loan", "p": 0.7291438550696886, "raw": null, "in_tok": 468, "out_tok": 10, "id": 6320688, "gold": "Personal loan", "sec": 2.6286803749972023}
+{"pred": "Bank account", "p": 0.6216542772042609, "raw": null, "in_tok": 358, "out_tok": 10, "id": 6878932, "gold": "Debt collection", "sec": 2.2437388340040343}
+{"pred": "Student loan", "p": 0.9361484977525706, "raw": null, "in_tok": 398, "out_tok": 10, "id": 2912859, "gold": "Student loan", "sec": 2.373105792008573}
+{"pred": "Credit card", "p": 0.9031602157098302, "raw": null, "in_tok": 323, "out_tok": 10, "id": 6649638, "gold": "Credit card", "sec": 1.9724959159939317}
+{"pred": "Debt collection", "p": 0.6795848830352001, "raw": null, "in_tok": 211, "out_tok": 11, "id": 6680719, "gold": "Credit reporting", "sec": 1.6294645409943769}
+{"pred": "Bank account", "p": 0.8982591156742682, "raw": null, "in_tok": 398, "out_tok": 10, "id": 3386739, "gold": "Bank account", "sec": 2.3509685839962913}
+{"pred": "Personal loan", "p": 0.8976593299815302, "raw": null, "in_tok": 535, "out_tok": 10, "id": 6678130, "gold": "Personal loan", "sec": 2.913860625005327}
+{"pred": "Debt collection", "p": 0.9722836666400659, "raw": null, "in_tok": 278, "out_tok": 11, "id": 4555630, "gold": "Debt collection", "sec": 1.8910173750045942}
+{"pred": "Credit reporting", "p": 0.6015559041840811, "raw": null, "in_tok": 270, "out_tok": 10, "id": 7444279, "gold": "Debt collection", "sec": 1.821962292000535}
+{"pred": "Bank account", "p": 0.9616154902211818, "raw": null, "in_tok": 215, "out_tok": 10, "id": 6729896, "gold": "Bank account", "sec": 1.5518616250046762}
+{"pred": "Student loan", "p": 0.8880439276238736, "raw": null, "in_tok": 332, "out_tok": 10, "id": 5985709, "gold": "Student loan", "sec": 2.084195292001823}
+{"pred": "Money transfer", "p": 0.9582594152231927, "raw": null, "in_tok": 369, "out_tok": 10, "id": 4040089, "gold": "Money transfer", "sec": 2.2267401249991963}
+{"pred": "Credit reporting", "p": 0.9490115669681407, "raw": null, "in_tok": 246, "out_tok": 13, "id": 7151944, "gold": "Credit reporting", "sec": 1.873023459003889}
+{"pred": "Vehicle loan", "p": 0.9063686701038512, "raw": null, "in_tok": 257, "out_tok": 10, "id": 4817205, "gold": "Vehicle loan", "sec": 1.7063989580055932}
+{"pred": "Mortgage", "p": 0.9471059218007171, "raw": null, "in_tok": 665, "out_tok": 11, "id": 5079072, "gold": "Mortgage", "sec": 3.483818874999997}
+{"pred": "Bank account", "p": 0.9678776968373499, "raw": null, "in_tok": 264, "out_tok": 10, "id": 4104604, "gold": "Bank account", "sec": 1.8534883329994045}
+{"pred": "Student loan", "p": 0.6237206446587018, "raw": null, "in_tok": 422, "out_tok": 10, "id": 5898788, "gold": "Student loan", "sec": 2.493368958996143}
+{"pred": "Student loan", "p": 0.8813025037434243, "raw": null, "in_tok": 520, "out_tok": 10, "id": 5266699, "gold": "Student loan", "sec": 2.8943054169940297}
+{"pred": "Personal loan", "p": 0.8811681839885774, "raw": null, "in_tok": 419, "out_tok": 10, "id": 5115013, "gold": "Personal loan", "sec": 2.378844125007163}
+{"pred": "Debt collection", "p": 0.9813513901273787, "raw": null, "in_tok": 310, "out_tok": 11, "id": 2826389, "gold": "Debt collection", "sec": 2.0278190420067403}
+{"pred": "Credit reporting", "p": 0.8107935287693998, "raw": null, "in_tok": 312, "out_tok": 10, "id": 6739790, "gold": "Credit reporting", "sec": 1.957154082992929}
+{"pred": "Bank account", "p": 0.9621686473047658, "raw": null, "in_tok": 320, "out_tok": 10, "id": 6505478, "gold": "Bank account", "sec": 1.9711997919948772}
+{"pred": "Credit reporting", "p": 0.8379695665110152, "raw": null, "in_tok": 219, "out_tok": 10, "id": 4815713, "gold": "Debt collection", "sec": 1.5780416670022532}
+{"pred": "Credit reporting", "p": 0.9558753579268905, "raw": null, "in_tok": 310, "out_tok": 10, "id": 4361070, "gold": "Credit reporting", "sec": 1.9678915830008918}
+{"pred": "Student loan", "p": 0.9490948067478256, "raw": null, "in_tok": 246, "out_tok": 10, "id": 3054595, "gold": "Student loan", "sec": 1.6980038750043605}
+{"pred": "Mortgage", "p": 0.9728071362998933, "raw": null, "in_tok": 283, "out_tok": 11, "id": 4484792, "gold": "Mortgage", "sec": 1.879951875002007}
+{"pred": "Credit card", "p": 0.9554640249981448, "raw": null, "in_tok": 331, "out_tok": 10, "id": 6879144, "gold": "Credit card", "sec": 2.1001222920021974}
+{"pred": "Money transfer", "p": 0.9534509062852142, "raw": null, "in_tok": 312, "out_tok": 10, "id": 6848746, "gold": "Money transfer", "sec": 1.9645752500073286}
+{"pred": "Student loan", "p": 0.9046415802777787, "raw": null, "in_tok": 473, "out_tok": 10, "id": 7995332, "gold": "Student loan", "sec": 2.6334131250041537}
+{"pred": "Credit reporting", "p": 0.8431766194429218, "raw": null, "in_tok": 453, "out_tok": 10, "id": 3383750, "gold": "Debt collection", "sec": 2.6398349170049187}
+{"pred": "Vehicle loan", "p": 0.8803666094760563, "raw": null, "in_tok": 453, "out_tok": 10, "id": 5995482, "gold": "Vehicle loan", "sec": 2.639245166996261}
+{"pred": "Bank account", "p": 0.8147121828033209, "raw": null, "in_tok": 410, "out_tok": 10, "id": 3180132, "gold": "Bank account", "sec": 2.3996832910052035}
+{"pred": "Vehicle loan", "p": 0.4737584161390282, "raw": null, "in_tok": 283, "out_tok": 10, "id": 3338501, "gold": "Personal loan", "sec": 1.8364007909985958}
+{"pred": "Credit reporting", "p": 0.8800449964302567, "raw": null, "in_tok": 328, "out_tok": 13, "id": 7822005, "gold": "Debt collection", "sec": 2.249355584004661}
+{"pred": "Credit card", "p": 0.9160533793908411, "raw": null, "in_tok": 443, "out_tok": 10, "id": 6787911, "gold": "Bank account", "sec": 2.509405916003743}
+{"pred": "Vehicle loan", "p": 0.8998098131398862, "raw": null, "in_tok": 560, "out_tok": 10, "id": 5569443, "gold": "Vehicle loan", "sec": 3.0512333329970716}
+{"pred": "Mortgage", "p": 0.9824030298734399, "raw": null, "in_tok": 284, "out_tok": 11, "id": 4369993, "gold": "Mortgage", "sec": 1.904548624996096}
+{"pred": "Vehicle loan", "p": 0.8938624335306297, "raw": null, "in_tok": 402, "out_tok": 10, "id": 4480043, "gold": "Vehicle loan", "sec": 2.3696899589995155}
+{"pred": "Credit reporting", "p": 0.9579214072787139, "raw": null, "in_tok": 253, "out_tok": 10, "id": 8021006, "gold": "Credit reporting", "sec": 1.7266304579970893}
+{"pred": "Debt collection", "p": 0.505964839892647, "raw": null, "in_tok": 633, "out_tok": 11, "id": 7083253, "gold": "Personal loan", "sec": 3.348926584003493}
+{"pred": "Money transfer", "p": 0.5416476894877006, "raw": null, "in_tok": 220, "out_tok": 10, "id": 5412927, "gold": "Money transfer", "sec": 1.5967421249952167}
+{"pred": "Credit reporting", "p": 0.9422946144148688, "raw": null, "in_tok": 271, "out_tok": 10, "id": 5792959, "gold": "Credit reporting", "sec": 1.83877504200791}
+{"pred": "Credit reporting", "p": 0.5853324512367182, "raw": null, "in_tok": 296, "out_tok": 10, "id": 3179586, "gold": "Personal loan", "sec": 1.9668717080057831}
+{"pred": "Money transfer", "p": 0.9601964399206139, "raw": null, "in_tok": 344, "out_tok": 10, "id": 8299682, "gold": "Money transfer", "sec": 2.1153765419876436}
+{"pred": "Credit card", "p": 0.8579423125908664, "raw": null, "in_tok": 300, "out_tok": 10, "id": 5929609, "gold": "Bank account", "sec": 1.9408830839965958}
+{"pred": "Bank account", "p": 0.49674664793793744, "raw": null, "in_tok": 545, "out_tok": 13, "id": 6316625, "gold": "Money transfer", "sec": 3.0367704579985}
+{"pred": "Debt collection", "p": 0.5489275536973454, "raw": null, "in_tok": 373, "out_tok": 11, "id": 5926515, "gold": "Debt collection", "sec": 2.273017958010314}
+{"pred": "Mortgage", "p": 0.97290249497075, "raw": null, "in_tok": 322, "out_tok": 11, "id": 4448192, "gold": "Mortgage", "sec": 2.0402343750029104}
+{"pred": "Bank account", "p": 0.9678778455694088, "raw": null, "in_tok": 304, "out_tok": 10, "id": 7302443, "gold": "Bank account", "sec": 1.9616484169964679}
+{"pred": "Credit card", "p": 0.9338279523932848, "raw": null, "in_tok": 353, "out_tok": 10, "id": 7456388, "gold": "Credit card", "sec": 2.126796209005988}
+{"pred": "Personal loan", "p": 0.9292808066429318, "raw": null, "in_tok": 279, "out_tok": 10, "id": 3482075, "gold": "Personal loan", "sec": 1.8243434589967364}
+{"pred": "Credit reporting", "p": 0.9206199622445658, "raw": null, "in_tok": 428, "out_tok": 10, "id": 6698932, "gold": "Credit reporting", "sec": 2.450514749987633}
+{"pred": "Personal loan", "p": 0.9237636665395741, "raw": null, "in_tok": 408, "out_tok": 10, "id": 4250635, "gold": "Personal loan", "sec": 2.368645791997551}
+{"pred": "Vehicle loan", "p": 0.37879706237838634, "raw": null, "in_tok": 375, "out_tok": 10, "id": 6906359, "gold": "Vehicle loan", "sec": 2.2205482090066653}
+{"pred": "Personal loan", "p": 0.9284220172377357, "raw": null, "in_tok": 548, "out_tok": 10, "id": 2891262, "gold": "Personal loan", "sec": 2.854435999994166}
+{"pred": "Vehicle loan", "p": 0.9495923983096588, "raw": null, "in_tok": 346, "out_tok": 10, "id": 7419960, "gold": "Vehicle loan", "sec": 2.0745825409976533}
+{"pred": "Mortgage", "p": 0.2652781735913164, "raw": null, "in_tok": 416, "out_tok": 11, "id": 3645180, "gold": "Vehicle loan", "sec": 2.401961499999743}
+{"pred": "Credit reporting", "p": 0.9652457248079248, "raw": null, "in_tok": 303, "out_tok": 10, "id": 7251848, "gold": "Credit reporting", "sec": 1.9504823330062209}
+{"pred": "Bank account", "p": 0.9595745165776001, "raw": null, "in_tok": 504, "out_tok": 10, "id": 2934157, "gold": "Bank account", "sec": 2.7293228329945123}
+{"pred": "Vehicle loan", "p": 0.8961197257992065, "raw": null, "in_tok": 520, "out_tok": 10, "id": 3257592, "gold": "Vehicle loan", "sec": 2.8612891670054523}
+{"pred": "Credit card", "p": 0.8339119420459664, "raw": null, "in_tok": 491, "out_tok": 10, "id": 6212722, "gold": "Credit card", "sec": 2.7639322500035632}
+{"pred": "Mortgage", "p": 0.9744795553659465, "raw": null, "in_tok": 562, "out_tok": 11, "id": 4612057, "gold": "Mortgage", "sec": 3.0669895410101162}
+{"pred": "Credit reporting", "p": 0.9048119575289979, "raw": null, "in_tok": 253, "out_tok": 13, "id": 4569261, "gold": "Debt collection", "sec": 1.8513890839967644}
+{"pred": "Mortgage", "p": 0.9649600593096148, "raw": null, "in_tok": 550, "out_tok": 11, "id": 5627011, "gold": "Mortgage", "sec": 3.035552084009396}
+{"pred": "Debt collection", "p": 0.9635803077780017, "raw": null, "in_tok": 394, "out_tok": 11, "id": 4555322, "gold": "Debt collection", "sec": 2.391567541999393}
+{"pred": "Credit reporting", "p": 0.9305959636658576, "raw": null, "in_tok": 355, "out_tok": 13, "id": 5048298, "gold": "Credit reporting", "sec": 2.2533984589972533}
+{"pred": "Mortgage", "p": 0.9728614861898958, "raw": null, "in_tok": 502, "out_tok": 11, "id": 2989929, "gold": "Mortgage", "sec": 2.783319707988994}
+{"pred": "Money transfer", "p": 0.9433134720984435, "raw": null, "in_tok": 317, "out_tok": 10, "id": 4564683, "gold": "Money transfer", "sec": 1.9455258329981007}
+{"pred": "Debt collection", "p": 0.926021934787106, "raw": null, "in_tok": 446, "out_tok": 11, "id": 3987410, "gold": "Debt collection", "sec": 2.521625374996802}
+{"pred": "Vehicle loan", "p": 0.8992234469998607, "raw": null, "in_tok": 344, "out_tok": 10, "id": 5495353, "gold": "Vehicle loan", "sec": 2.0934587080118945}
+{"pred": "Credit reporting", "p": 0.9450964879744791, "raw": null, "in_tok": 362, "out_tok": 10, "id": 5864560, "gold": "Credit reporting", "sec": 2.215802958002314}
+{"pred": "Debt collection", "p": 0.8354467855968968, "raw": null, "in_tok": 380, "out_tok": 14, "id": 5693744, "gold": "Mortgage", "sec": 2.4262087079987396}
+{"pred": "Credit reporting", "p": 0.820636194955137, "raw": null, "in_tok": 246, "out_tok": 10, "id": 6906384, "gold": "Debt collection", "sec": 1.6937650000036228}
+{"pred": "Credit card", "p": 0.9226690410055766, "raw": null, "in_tok": 538, "out_tok": 10, "id": 4008924, "gold": "Credit card", "sec": 2.866369917013799}
+{"pred": "Vehicle loan", "p": 0.8814459724509849, "raw": null, "in_tok": 403, "out_tok": 10, "id": 7828926, "gold": "Vehicle loan", "sec": 2.350323207996553}
+{"pred": "Credit reporting", "p": 0.9122108288397384, "raw": null, "in_tok": 303, "out_tok": 10, "id": 3654737, "gold": "Credit card", "sec": 1.9527839170041261}
+{"pred": "Credit reporting", "p": 0.35340099835781713, "raw": null, "in_tok": 206, "out_tok": 10, "id": 4141625, "gold": "Debt collection", "sec": 1.5510207089973846}
+{"pred": "Credit reporting", "p": 0.9617001653413952, "raw": null, "in_tok": 234, "out_tok": 10, "id": 7443854, "gold": "Credit reporting", "sec": 1.6763478749926435}
+{"pred": "Credit card", "p": 0.5598184731413348, "raw": null, "in_tok": 340, "out_tok": 10, "id": 6565064, "gold": "Money transfer", "sec": 2.0756326249975245}
+{"pred": "Mortgage", "p": 0.9728440219431521, "raw": null, "in_tok": 452, "out_tok": 11, "id": 5578978, "gold": "Mortgage", "sec": 2.510510374995647}
+{"pred": "Student loan", "p": 0.9310767348628036, "raw": null, "in_tok": 311, "out_tok": 10, "id": 6754020, "gold": "Student loan", "sec": 1.9452788750058971}
+{"pred": "Credit reporting", "p": 0.9153322165027494, "raw": null, "in_tok": 361, "out_tok": 10, "id": 3762810, "gold": "Credit reporting", "sec": 2.2597831669991137}
+{"pred": "Mortgage", "p": 0.9345259007181591, "raw": null, "in_tok": 261, "out_tok": 11, "id": 4773540, "gold": "Mortgage", "sec": 1.881753084002412}
+{"pred": "Credit card", "p": 0.9180981908388594, "raw": null, "in_tok": 342, "out_tok": 10, "id": 7131661, "gold": "Credit card", "sec": 2.0760704999993322}
+{"pred": "Debt collection", "p": 0.9804411202165277, "raw": null, "in_tok": 234, "out_tok": 11, "id": 5569097, "gold": "Debt collection", "sec": 1.735863750000135}
+{"pred": "Credit reporting", "p": 0.9399662950326687, "raw": null, "in_tok": 235, "out_tok": 10, "id": 5266437, "gold": "Credit reporting", "sec": 1.6608223329967586}
+{"pred": "Vehicle loan", "p": 0.9438397787481888, "raw": null, "in_tok": 363, "out_tok": 10, "id": 3333967, "gold": "Vehicle loan", "sec": 2.1998642919934355}
+{"pred": "Credit reporting", "p": 0.31870395779863103, "raw": null, "in_tok": 249, "out_tok": 10, "id": 6908690, "gold": "Credit reporting", "sec": 1.6800466249987949}
+{"pred": "Credit card", "p": 0.9121878178790782, "raw": null, "in_tok": 518, "out_tok": 10, "id": 3474945, "gold": "Credit card", "sec": 2.8573338329879334}
+{"pred": "Debt collection", "p": 0.6351866563018591, "raw": null, "in_tok": 611, "out_tok": 11, "id": 5996449, "gold": "Money transfer", "sec": 3.1936662499938393}
+{"pred": "Bank account", "p": 0.9620055014072683, "raw": null, "in_tok": 418, "out_tok": 10, "id": 2826335, "gold": "Bank account", "sec": 2.351166624997859}
+{"pred": "Student loan", "p": 0.9611282093235158, "raw": null, "in_tok": 445, "out_tok": 10, "id": 6209480, "gold": "Student loan", "sec": 2.4662212090042885}
+{"pred": "Student loan", "p": 0.9399559932427068, "raw": null, "in_tok": 206, "out_tok": 10, "id": 3609423, "gold": "Student loan", "sec": 1.528909708998981}
+{"pred": "Student loan", "p": 0.8829082697768769, "raw": null, "in_tok": 276, "out_tok": 10, "id": 2909270, "gold": "Student loan", "sec": 1.7979617920063902}
+{"pred": "Credit card", "p": 0.8967291788249723, "raw": null, "in_tok": 302, "out_tok": 10, "id": 5476758, "gold": "Credit card", "sec": 1.938006292009959}
+{"pred": "Personal loan", "p": 0.9262262405060634, "raw": null, "in_tok": 354, "out_tok": 10, "id": 5135726, "gold": "Personal loan", "sec": 2.087093916008598}
+{"pred": "Credit reporting", "p": 0.9561370211489025, "raw": null, "in_tok": 338, "out_tok": 13, "id": 7789121, "gold": "Credit reporting", "sec": 2.234105459006969}
+{"pred": "Mortgage", "p": 0.9795421856298483, "raw": null, "in_tok": 249, "out_tok": 11, "id": 5156621, "gold": "Mortgage", "sec": 1.7362376660021255}
+{"pred": "Debt collection", "p": 0.9822717977691198, "raw": null, "in_tok": 255, "out_tok": 11, "id": 3064452, "gold": "Debt collection", "sec": 1.722478334006155}
+{"pred": "Mortgage", "p": 0.9786134176190643, "raw": null, "in_tok": 483, "out_tok": 11, "id": 3665602, "gold": "Mortgage", "sec": 2.645668041004683}
+{"pred": "Personal loan", "p": 0.8543835854310581, "raw": null, "in_tok": 508, "out_tok": 10, "id": 3503333, "gold": "Personal loan", "sec": 2.745301290997304}
+{"pred": "Debt collection", "p": 0.9189972026970654, "raw": null, "in_tok": 280, "out_tok": 11, "id": 5624326, "gold": "Debt collection", "sec": 1.8718129170010798}
+{"pred": "Student loan", "p": 0.8944071983022538, "raw": null, "in_tok": 277, "out_tok": 10, "id": 2996969, "gold": "Student loan", "sec": 1.7985586659924593}
+{"pred": "Student loan", "p": 0.8624737266024508, "raw": null, "in_tok": 307, "out_tok": 10, "id": 3450301, "gold": "Student loan", "sec": 1.9255192499986151}
+{"pred": "Debt collection", "p": 0.9535457043802713, "raw": null, "in_tok": 479, "out_tok": 11, "id": 6573667, "gold": "Debt collection", "sec": 2.6604677909926977}
+{"pred": "Money transfer", "p": 0.3173904294163, "raw": null, "in_tok": 292, "out_tok": 10, "id": 7162924, "gold": "Money transfer", "sec": 1.807049458991969}
+{"pred": "Money transfer", "p": 0.6172139880741367, "raw": null, "in_tok": 380, "out_tok": 10, "id": 8219493, "gold": "Money transfer", "sec": 2.193910791000235}
+{"pred": "Credit reporting", "p": 0.9646748603035356, "raw": null, "in_tok": 216, "out_tok": 10, "id": 7154347, "gold": "Credit reporting", "sec": 1.557488792008371}
+{"pred": "Credit reporting", "p": 0.8665153019243947, "raw": null, "in_tok": 283, "out_tok": 10, "id": 4618598, "gold": "Credit reporting", "sec": 1.8172686670004623}
+{"pred": "Mortgage", "p": 0.9809031451959452, "raw": null, "in_tok": 318, "out_tok": 11, "id": 7907324, "gold": "Mortgage", "sec": 2.0004595419886755}
+{"pred": "Money transfer", "p": 0.9317367795789014, "raw": null, "in_tok": 485, "out_tok": 10, "id": 6415131, "gold": "Money transfer", "sec": 2.7265890410053544}
+{"pred": "Debt collection", "p": 0.9804989729540724, "raw": null, "in_tok": 219, "out_tok": 11, "id": 6598390, "gold": "Debt collection", "sec": 1.5954859579942422}
+{"pred": "Bank account", "p": 0.9644588257802035, "raw": null, "in_tok": 231, "out_tok": 10, "id": 3732968, "gold": "Bank account", "sec": 1.6589167500060285}
+{"pred": "Credit card", "p": 0.9267983354419601, "raw": null, "in_tok": 434, "out_tok": 10, "id": 6370684, "gold": "Credit card", "sec": 2.448845667007845}
+{"pred": "Credit card", "p": 0.9012748627306169, "raw": null, "in_tok": 584, "out_tok": 10, "id": 6173101, "gold": "Bank account", "sec": 3.124756208009785}
+{"pred": "Money transfer", "p": 0.9350349318084648, "raw": null, "in_tok": 282, "out_tok": 10, "id": 6948433, "gold": "Money transfer", "sec": 1.8178270420030458}
+{"pred": "Vehicle loan", "p": 0.9175768637157329, "raw": null, "in_tok": 628, "out_tok": 10, "id": 3583103, "gold": "Vehicle loan", "sec": 3.264219165997929}
+{"pred": "Vehicle loan", "p": 0.791186613235096, "raw": null, "in_tok": 336, "out_tok": 10, "id": 3109341, "gold": "Vehicle loan", "sec": 2.0728630410012556}
+{"pred": "Mortgage", "p": 0.9829493025271444, "raw": null, "in_tok": 446, "out_tok": 11, "id": 6173481, "gold": "Mortgage", "sec": 2.514901540998835}
+{"pred": "Debt collection", "p": 0.5645510446683251, "raw": null, "in_tok": 252, "out_tok": 14, "id": 2823087, "gold": "Debt collection", "sec": 1.8879869999946095}
+{"pred": "Personal loan", "p": 0.3823207716637655, "raw": null, "in_tok": 557, "out_tok": 10, "id": 7186255, "gold": "Personal loan", "sec": 2.981168250000337}
+{"pred": "Credit card", "p": 0.9297449718971625, "raw": null, "in_tok": 272, "out_tok": 10, "id": 3719733, "gold": "Debt collection", "sec": 1.8032788749987958}
+{"pred": "Mortgage", "p": 0.6939003467583221, "raw": null, "in_tok": 253, "out_tok": 11, "id": 3436229, "gold": "Personal loan", "sec": 1.7219436669984134}
+{"pred": "Student loan", "p": 0.9193057597038791, "raw": null, "in_tok": 430, "out_tok": 10, "id": 7791886, "gold": "Student loan", "sec": 2.447425958001986}
+{"pred": "Credit card", "p": 0.6496380189088335, "raw": null, "in_tok": 400, "out_tok": 10, "id": 4587716, "gold": "Money transfer", "sec": 2.338188875000924}
+{"pred": "Credit reporting", "p": 0.944121706510982, "raw": null, "in_tok": 228, "out_tok": 10, "id": 6568879, "gold": "Credit reporting", "sec": 1.5485328340000706}
+{"pred": "Personal loan", "p": 0.937572025495924, "raw": null, "in_tok": 312, "out_tok": 10, "id": 2961980, "gold": "Personal loan", "sec": 1.9417204579949612}
+{"pred": "Bank account", "p": 0.9672878638138563, "raw": null, "in_tok": 240, "out_tok": 13, "id": 5898779, "gold": "Bank account", "sec": 1.841581333996146}
+{"pred": "Bank account", "p": 0.9427615817118782, "raw": null, "in_tok": 382, "out_tok": 10, "id": 7047206, "gold": "Bank account", "sec": 2.204273082999862}
+{"pred": "Mortgage", "p": 0.9639363220617233, "raw": null, "in_tok": 288, "out_tok": 11, "id": 3050577, "gold": "Mortgage", "sec": 1.8639364999980899}
+{"pred": "Bank account", "p": 0.8337491980471079, "raw": null, "in_tok": 269, "out_tok": 10, "id": 7352749, "gold": "Money transfer", "sec": 1.7976817500020843}
+{"pred": "Personal loan", "p": 0.803962573596272, "raw": null, "in_tok": 394, "out_tok": 10, "id": 4444223, "gold": "Mortgage", "sec": 2.3201162920013303}
+{"pred": "Credit reporting", "p": 0.9332600542507035, "raw": null, "in_tok": 432, "out_tok": 13, "id": 6450616, "gold": "Credit reporting", "sec": 2.616554583000834}
+{"pred": "Bank account", "p": 0.9055133540931872, "raw": null, "in_tok": 277, "out_tok": 10, "id": 7253375, "gold": "Bank account", "sec": 1.808348709004349}
+{"pred": "Credit card", "p": 0.4240452873710827, "raw": null, "in_tok": 252, "out_tok": 10, "id": 4534318, "gold": "Personal loan", "sec": 1.6837080420082202}
+{"pred": "Credit reporting", "p": 0.9607932107265624, "raw": null, "in_tok": 305, "out_tok": 10, "id": 4588485, "gold": "Debt collection", "sec": 1.9393138749874197}
+{"pred": "Credit reporting", "p": 0.9472509376882086, "raw": null, "in_tok": 224, "out_tok": 10, "id": 6032369, "gold": "Credit reporting", "sec": 1.5504317080049077}
+{"pred": "Mortgage", "p": 0.981264289066952, "raw": null, "in_tok": 280, "out_tok": 11, "id": 3896257, "gold": "Mortgage", "sec": 1.8553677090094425}
+{"pred": "Money transfer", "p": 0.6999953445350129, "raw": null, "in_tok": 598, "out_tok": 10, "id": 5888978, "gold": "Money transfer", "sec": 3.114474917005282}
+{"pred": "Credit reporting", "p": 0.9231439970174169, "raw": null, "in_tok": 509, "out_tok": 10, "id": 6578925, "gold": "Credit reporting", "sec": 2.730433124990668}
+{"pred": "Credit reporting", "p": 0.9563344173109819, "raw": null, "in_tok": 259, "out_tok": 10, "id": 6648337, "gold": "Credit reporting", "sec": 1.6840282500052126}
+{"pred": "Credit card", "p": 0.379300951915983, "raw": null, "in_tok": 299, "out_tok": 10, "id": 7972897, "gold": "Credit reporting", "sec": 1.9339534169994295}
+{"pred": "Credit card", "p": 0.4949866971540546, "raw": null, "in_tok": 511, "out_tok": 10, "id": 8210920, "gold": "Bank account", "sec": 2.7340798749937676}
+{"pred": "Bank account", "p": 0.9282923579303312, "raw": null, "in_tok": 354, "out_tok": 10, "id": 7347024, "gold": "Bank account", "sec": 2.0727698340051575}
+{"pred": "Student loan", "p": 0.8879862035172733, "raw": null, "in_tok": 317, "out_tok": 10, "id": 2921085, "gold": "Student loan", "sec": 1.936397625002428}
+{"pred": "Vehicle loan", "p": 0.9563984736422738, "raw": null, "in_tok": 231, "out_tok": 10, "id": 7868617, "gold": "Vehicle loan", "sec": 1.6769311660027597}
+{"pred": "Credit reporting", "p": 0.9180588561650628, "raw": null, "in_tok": 435, "out_tok": 10, "id": 7647071, "gold": "Credit reporting", "sec": 2.4478843749966472}
+{"pred": "Personal loan", "p": 0.5112984091826012, "raw": null, "in_tok": 195, "out_tok": 10, "id": 6749441, "gold": "Personal loan", "sec": 1.4144387080013985}
+{"pred": "Student loan", "p": 0.8764884793703288, "raw": null, "in_tok": 269, "out_tok": 10, "id": 5702683, "gold": "Student loan", "sec": 1.7946515420044307}
+{"pred": "Student loan", "p": 0.9455685600277195, "raw": null, "in_tok": 323, "out_tok": 13, "id": 3074341, "gold": "Student loan", "sec": 2.0962040000013076}
+{"pred": "Credit card", "p": 0.9248208745933824, "raw": null, "in_tok": 372, "out_tok": 10, "id": 3068837, "gold": "Credit card", "sec": 2.2199333339958685}
+{"pred": "Student loan", "p": 0.9330674030337696, "raw": null, "in_tok": 391, "out_tok": 10, "id": 3280630, "gold": "Student loan", "sec": 2.32616133299598}
+{"pred": "Vehicle loan", "p": 0.9215783071590478, "raw": null, "in_tok": 308, "out_tok": 10, "id": 7411605, "gold": "Vehicle loan", "sec": 1.9335198329936247}
+{"pred": "Credit reporting", "p": 0.8561644624660051, "raw": null, "in_tok": 239, "out_tok": 10, "id": 7580081, "gold": "Credit card", "sec": 1.6823309999890625}
+{"pred": "Bank account", "p": 0.8694480288152372, "raw": null, "in_tok": 354, "out_tok": 10, "id": 2988381, "gold": "Bank account", "sec": 2.0652852920029545}
+{"pred": "Vehicle loan", "p": 0.7757344297815433, "raw": null, "in_tok": 514, "out_tok": 10, "id": 2987774, "gold": "Vehicle loan", "sec": 2.7490887500025565}
+{"pred": "Mortgage", "p": 0.9820057399731126, "raw": null, "in_tok": 504, "out_tok": 11, "id": 8232730, "gold": "Mortgage", "sec": 2.7831016249983804}
+{"pred": "Credit reporting", "p": 0.9161340116070621, "raw": null, "in_tok": 326, "out_tok": 10, "id": 7990969, "gold": "Credit reporting", "sec": 2.0803539579937933}
+{"pred": "Debt collection", "p": 0.9787557154539881, "raw": null, "in_tok": 274, "out_tok": 11, "id": 7248188, "gold": "Debt collection", "sec": 1.857145624991972}
+{"pred": "Debt collection", "p": 0.9864502710033862, "raw": null, "in_tok": 204, "out_tok": 11, "id": 3528106, "gold": "Debt collection", "sec": 1.579099499998847}
+{"pred": "Credit reporting", "p": 0.9529761850235764, "raw": null, "in_tok": 284, "out_tok": 10, "id": 7697344, "gold": "Credit reporting", "sec": 1.8015944170037983}
+{"pred": "Credit reporting", "p": 0.8946006083876851, "raw": null, "in_tok": 248, "out_tok": 10, "id": 4681956, "gold": "Personal loan", "sec": 1.6669081670115702}
+{"pred": "Credit reporting", "p": 0.9117121513477134, "raw": null, "in_tok": 271, "out_tok": 13, "id": 4890713, "gold": "Debt collection", "sec": 1.9563372090051416}
+{"pred": "Debt collection", "p": 0.9457364818876043, "raw": null, "in_tok": 498, "out_tok": 11, "id": 2875278, "gold": "Debt collection", "sec": 2.7735393330076477}
+{"pred": "Credit reporting", "p": 0.28326956897923145, "raw": null, "in_tok": 335, "out_tok": 10, "id": 5805437, "gold": "Credit reporting", "sec": 2.0592959580098977}
+{"pred": "Credit card", "p": 0.883424722730201, "raw": null, "in_tok": 563, "out_tok": 10, "id": 3749324, "gold": "Money transfer", "sec": 2.9921613749902463}
+{"pred": "Mortgage", "p": 0.9856554505419147, "raw": null, "in_tok": 444, "out_tok": 11, "id": 3161451, "gold": "Mortgage", "sec": 2.5133939160004957}
+{"pred": "Mortgage", "p": 0.9833791256802252, "raw": null, "in_tok": 238, "out_tok": 11, "id": 7064779, "gold": "Mortgage", "sec": 1.7218967079970753}
+{"pred": "Student loan", "p": 0.9577893627306718, "raw": null, "in_tok": 329, "out_tok": 10, "id": 7974664, "gold": "Student loan", "sec": 2.0539439170097467}
+{"pred": "Credit card", "p": 0.6931285590489452, "raw": null, "in_tok": 250, "out_tok": 10, "id": 5863972, "gold": "Credit card", "sec": 1.6875635830074316}
+{"pred": "Money transfer", "p": 0.922566511719985, "raw": null, "in_tok": 316, "out_tok": 10, "id": 2842358, "gold": "Money transfer", "sec": 1.9281079170032172}
+{"pred": "Credit reporting", "p": 0.9378940788798277, "raw": null, "in_tok": 281, "out_tok": 10, "id": 5926605, "gold": "Credit reporting", "sec": 1.821103458001744}
+{"pred": "Credit reporting", "p": 0.9454658815793954, "raw": null, "in_tok": 279, "out_tok": 10, "id": 6178118, "gold": "Credit reporting", "sec": 1.7995535410009325}
+{"pred": "Vehicle loan", "p": 0.924804167980979, "raw": null, "in_tok": 350, "out_tok": 10, "id": 6556048, "gold": "Credit card", "sec": 2.063861000002362}
+{"pred": "Credit card", "p": 0.9003001961665111, "raw": null, "in_tok": 270, "out_tok": 10, "id": 6765947, "gold": "Credit card", "sec": 1.8232120419997955}
+{"pred": "Mortgage", "p": 0.9823244518264458, "raw": null, "in_tok": 389, "out_tok": 11, "id": 3017889, "gold": "Mortgage", "sec": 2.3726593340106774}
+{"pred": "Credit reporting", "p": 0.9311225908406194, "raw": null, "in_tok": 268, "out_tok": 10, "id": 6173265, "gold": "Credit reporting", "sec": 1.8005472920049215}
+{"pred": "Vehicle loan", "p": 0.8922209115108818, "raw": null, "in_tok": 604, "out_tok": 10, "id": 7363128, "gold": "Vehicle loan", "sec": 3.1150845410011243}
+{"pred": "Credit card", "p": 0.6055597249509945, "raw": null, "in_tok": 228, "out_tok": 13, "id": 3919441, "gold": "Credit reporting", "sec": 1.7053394160029711}
+{"pred": "Credit reporting", "p": 0.8024139181031058, "raw": null, "in_tok": 290, "out_tok": 10, "id": 6785314, "gold": "Vehicle loan", "sec": 1.8202139169879956}
+{"pred": "Vehicle loan", "p": 0.9554506923178403, "raw": null, "in_tok": 245, "out_tok": 10, "id": 4681229, "gold": "Vehicle loan", "sec": 1.678325875007431}
+{"pred": "Mortgage", "p": 0.9688355407298869, "raw": null, "in_tok": 291, "out_tok": 11, "id": 6287793, "gold": "Mortgage", "sec": 1.8580432500020834}
+{"pred": "Personal loan", "p": 0.691557048878578, "raw": null, "in_tok": 229, "out_tok": 10, "id": 5927000, "gold": "Personal loan", "sec": 1.6607914579944918}
+{"pred": "Credit card", "p": 0.9227827393175017, "raw": null, "in_tok": 528, "out_tok": 10, "id": 6040678, "gold": "Credit card", "sec": 2.847005250005168}
+{"pred": "Student loan", "p": 0.9452306278401351, "raw": null, "in_tok": 302, "out_tok": 10, "id": 7790871, "gold": "Student loan", "sec": 1.933775333003723}
+{"pred": "Money transfer", "p": 0.9589235047414921, "raw": null, "in_tok": 535, "out_tok": 10, "id": 7838282, "gold": "Money transfer", "sec": 2.8694915829983074}
+{"pred": "Mortgage", "p": 0.9815403590590497, "raw": null, "in_tok": 357, "out_tok": 11, "id": 3786633, "gold": "Mortgage", "sec": 2.2420954999979585}
+{"pred": "Mortgage", "p": 0.9767888296109567, "raw": null, "in_tok": 260, "out_tok": 11, "id": 8248428, "gold": "Mortgage", "sec": 1.7197262920089997}
+{"pred": "Credit reporting", "p": 0.908552163476751, "raw": null, "in_tok": 283, "out_tok": 13, "id": 7880098, "gold": "Credit reporting", "sec": 1.9601249580009608}
+{"pred": "Student loan", "p": 0.9494943892095478, "raw": null, "in_tok": 356, "out_tok": 10, "id": 6237161, "gold": "Student loan", "sec": 2.050789041997632}
+{"pred": "Mortgage", "p": 0.98614307064191, "raw": null, "in_tok": 284, "out_tok": 11, "id": 3779845, "gold": "Mortgage", "sec": 1.8645712090074085}
+{"pred": "Bank account", "p": 0.9497833164303429, "raw": null, "in_tok": 318, "out_tok": 10, "id": 3784360, "gold": "Bank account", "sec": 1.9300125830050092}
+{"pred": "Mortgage", "p": 0.9825249780830324, "raw": null, "in_tok": 197, "out_tok": 11, "id": 6747732, "gold": "Mortgage", "sec": 1.5801012910087593}
+{"pred": "Bank account", "p": 0.9569319093007645, "raw": null, "in_tok": 471, "out_tok": 10, "id": 3401076, "gold": "Bank account", "sec": 2.5996141669893404}
+{"pred": "Money transfer", "p": 0.9545277135337128, "raw": null, "in_tok": 242, "out_tok": 10, "id": 7680824, "gold": "Money transfer", "sec": 1.669467166007962}
+{"pred": "Bank account", "p": 0.7003239996993503, "raw": null, "in_tok": 383, "out_tok": 10, "id": 6848343, "gold": "Bank account", "sec": 2.2065932499972405}
+{"pred": "Personal loan", "p": 0.9354250696155715, "raw": null, "in_tok": 302, "out_tok": 10, "id": 3681432, "gold": "Personal loan", "sec": 1.928630542010069}
+{"pred": "Mortgage", "p": 0.9862293458392608, "raw": null, "in_tok": 311, "out_tok": 11, "id": 7047713, "gold": "Mortgage", "sec": 1.9870815409958595}
+{"pred": "Personal loan", "p": 0.9284366344365839, "raw": null, "in_tok": 458, "out_tok": 10, "id": 7609284, "gold": "Personal loan", "sec": 2.600820459003444}
+{"pred": "Credit card", "p": 0.37643047951934305, "raw": null, "in_tok": 361, "out_tok": 10, "id": 3648177, "gold": "Money transfer", "sec": 2.2027623750036582}
+{"pred": "Mortgage", "p": 0.9787295674064376, "raw": null, "in_tok": 392, "out_tok": 11, "id": 5005977, "gold": "Mortgage", "sec": 2.37673962500412}
+{"pred": "Bank account", "p": 0.9552389293536163, "raw": null, "in_tok": 414, "out_tok": 10, "id": 3871200, "gold": "Bank account", "sec": 2.3444014999986393}
+{"pred": "Credit card", "p": 0.9103694127658113, "raw": null, "in_tok": 315, "out_tok": 10, "id": 6565781, "gold": "Credit card", "sec": 1.9506782079988625}
+{"pred": "Bank account", "p": 0.9641717055174621, "raw": null, "in_tok": 354, "out_tok": 10, "id": 4308528, "gold": "Bank account", "sec": 2.072181499999715}
+{"pred": "Credit reporting", "p": 0.7773482082544658, "raw": null, "in_tok": 247, "out_tok": 10, "id": 4100653, "gold": "Vehicle loan", "sec": 1.6822642920014914}
+{"pred": "Bank account", "p": 0.9084641134551033, "raw": null, "in_tok": 356, "out_tok": 10, "id": 5898785, "gold": "Bank account", "sec": 2.0544377909973264}
+{"pred": "Mortgage", "p": 0.9821942645543525, "raw": null, "in_tok": 259, "out_tok": 11, "id": 3966706, "gold": "Mortgage", "sec": 1.7310693329927744}
+{"pred": "Student loan", "p": 0.9705644690804068, "raw": null, "in_tok": 317, "out_tok": 10, "id": 2876264, "gold": "Student loan", "sec": 1.9308818749996135}
+{"pred": "Bank account", "p": 0.6627279594318218, "raw": null, "in_tok": 285, "out_tok": 10, "id": 4101072, "gold": "Bank account", "sec": 1.8224837919988204}
+{"pred": "Credit card", "p": 0.8546388799154357, "raw": null, "in_tok": 288, "out_tok": 13, "id": 6206004, "gold": "Credit reporting", "sec": 1.9659608750080224}
+{"pred": "Bank account", "p": 0.9718414458906527, "raw": null, "in_tok": 331, "out_tok": 10, "id": 7751754, "gold": "Bank account", "sec": 2.062849082998582}
+{"pred": "Credit card", "p": 0.9108436509192503, "raw": null, "in_tok": 268, "out_tok": 10, "id": 7854896, "gold": "Personal loan", "sec": 1.7978042500035372}
+{"pred": "Debt collection", "p": 0.8892634397715663, "raw": null, "in_tok": 580, "out_tok": 11, "id": 3383807, "gold": "Mortgage", "sec": 3.023703833008767}
+{"pred": "Student loan", "p": 0.9396662185003979, "raw": null, "in_tok": 321, "out_tok": 10, "id": 3074096, "gold": "Student loan", "sec": 1.9376866670063464}
+{"pred": "Money transfer", "p": 0.9641625625842734, "raw": null, "in_tok": 253, "out_tok": 10, "id": 4354287, "gold": "Money transfer", "sec": 1.6732820000033826}
+{"pred": "Bank account", "p": 0.5260854211315364, "raw": null, "in_tok": 273, "out_tok": 10, "id": 7933581, "gold": "Personal loan", "sec": 1.7981719999952475}
+{"pred": "Credit card", "p": 0.3520536229844544, "raw": null, "in_tok": 373, "out_tok": 10, "id": 3193555, "gold": "Money transfer", "sec": 2.188213542001904}
+{"pred": "Debt collection", "p": 0.9698497244040457, "raw": null, "in_tok": 398, "out_tok": 11, "id": 3298778, "gold": "Debt collection", "sec": 2.378108709002845}
+{"pred": "Credit reporting", "p": 0.8971660940035581, "raw": null, "in_tok": 426, "out_tok": 10, "id": 6455545, "gold": "Credit reporting", "sec": 2.451593709003646}
+{"pred": "Mortgage", "p": 0.5493876762132737, "raw": null, "in_tok": 461, "out_tok": 11, "id": 3437049, "gold": "Personal loan", "sec": 2.6552221670135623}
+{"pred": "Vehicle loan", "p": 0.8820802225715885, "raw": null, "in_tok": 433, "out_tok": 10, "id": 2934139, "gold": "Vehicle loan", "sec": 2.4721799590042792}
+{"pred": "Credit reporting", "p": 0.9570320034682678, "raw": null, "in_tok": 216, "out_tok": 10, "id": 6173624, "gold": "Credit reporting", "sec": 1.5479456670000218}
+{"pred": "Student loan", "p": 0.8280227920829304, "raw": null, "in_tok": 296, "out_tok": 10, "id": 7957771, "gold": "Student loan", "sec": 1.9198882500058971}
+{"pred": "Personal loan", "p": 0.721549504780671, "raw": null, "in_tok": 366, "out_tok": 10, "id": 7488962, "gold": "Personal loan", "sec": 2.192221207995317}
+{"pred": "Mortgage", "p": 0.9730696179546907, "raw": null, "in_tok": 366, "out_tok": 11, "id": 3611541, "gold": "Mortgage", "sec": 2.2416208749928046}
+{"pred": "Credit card", "p": 0.885198131922696, "raw": null, "in_tok": 465, "out_tok": 10, "id": 7465846, "gold": "Credit card", "sec": 2.595726500003366}
+{"pred": "Mortgage", "p": 0.9766562642443358, "raw": null, "in_tok": 288, "out_tok": 11, "id": 4520646, "gold": "Mortgage", "sec": 1.8767518750100862}
+{"pred": "Debt collection", "p": 0.9777734431817501, "raw": null, "in_tok": 467, "out_tok": 11, "id": 3645187, "gold": "Debt collection", "sec": 2.648017332991003}
+{"pred": "Credit reporting", "p": 0.735354348169078, "raw": null, "in_tok": 219, "out_tok": 10, "id": 7845991, "gold": "Vehicle loan", "sec": 1.548244292003801}
+{"pred": "Bank account", "p": 0.5792589216286923, "raw": null, "in_tok": 410, "out_tok": 10, "id": 4490127, "gold": "Bank account", "sec": 2.3363279579934897}
+{"pred": "Bank account", "p": 0.9632459797952624, "raw": null, "in_tok": 343, "out_tok": 10, "id": 6613160, "gold": "Money transfer", "sec": 2.0790645410015713}
+{"pred": "Student loan", "p": 0.9507454301778703, "raw": null, "in_tok": 521, "out_tok": 10, "id": 2861509, "gold": "Student loan", "sec": 2.8581830829934916}
+{"pred": "Student loan", "p": 0.8901732152180848, "raw": null, "in_tok": 323, "out_tok": 10, "id": 6101094, "gold": "Student loan", "sec": 1.9534401250130031}
+{"pred": "Debt collection", "p": 0.9736500715092045, "raw": null, "in_tok": 347, "out_tok": 11, "id": 5889081, "gold": "Debt collection", "sec": 2.1330794999958016}
+{"pred": "Debt collection", "p": 0.9896088540379291, "raw": null, "in_tok": 241, "out_tok": 11, "id": 4228409, "gold": "Debt collection", "sec": 1.723377165995771}
+{"pred": "Credit card", "p": 0.6174007882917505, "raw": null, "in_tok": 267, "out_tok": 10, "id": 3338556, "gold": "Student loan", "sec": 1.8099389159906423}
+{"pred": "Vehicle loan", "p": 0.8958564743569222, "raw": null, "in_tok": 304, "out_tok": 10, "id": 2834964, "gold": "Personal loan", "sec": 1.9247405829955824}
+{"pred": "Mortgage", "p": 0.9730231620868778, "raw": null, "in_tok": 407, "out_tok": 11, "id": 5274653, "gold": "Mortgage", "sec": 2.3914704169874312}
+{"pred": "Money transfer", "p": 0.9115734956803143, "raw": null, "in_tok": 606, "out_tok": 10, "id": 4479650, "gold": "Money transfer", "sec": 3.1269227919983678}
+{"pred": "Bank account", "p": 0.8720492906208076, "raw": null, "in_tok": 349, "out_tok": 10, "id": 4106625, "gold": "Money transfer", "sec": 2.072888208000222}
+{"pred": "Credit card", "p": 0.939985386207729, "raw": null, "in_tok": 291, "out_tok": 10, "id": 4418759, "gold": "Money transfer", "sec": 1.8358845420007128}
+{"pred": "Bank account", "p": 0.9304415778357208, "raw": null, "in_tok": 201, "out_tok": 10, "id": 4369503, "gold": "Bank account", "sec": 1.5288238750072196}
+{"pred": "Credit card", "p": 0.5750621547178535, "raw": null, "in_tok": 334, "out_tok": 10, "id": 4302329, "gold": "Bank account", "sec": 2.0588728329894366}
+{"pred": "Credit reporting", "p": 0.9522205689616938, "raw": null, "in_tok": 216, "out_tok": 10, "id": 4520018, "gold": "Credit reporting", "sec": 1.548799209005665}
+{"pred": "Credit reporting", "p": 0.7982230934106201, "raw": null, "in_tok": 211, "out_tok": 10, "id": 7331927, "gold": "Debt collection", "sec": 1.5417968330002623}
+{"pred": "Bank account", "p": 0.9086495010701088, "raw": null, "in_tok": 302, "out_tok": 10, "id": 3824283, "gold": "Credit card", "sec": 1.9226619170076447}
+{"pred": "Credit reporting", "p": 0.3677903064382341, "raw": null, "in_tok": 422, "out_tok": 10, "id": 3383857, "gold": "Credit card", "sec": 2.454898958996637}
+{"pred": "Vehicle loan", "p": 0.9009790273233739, "raw": null, "in_tok": 289, "out_tok": 10, "id": 4653667, "gold": "Vehicle loan", "sec": 1.8267216669919435}
+{"pred": "Credit card", "p": 0.5689665970072094, "raw": null, "in_tok": 424, "out_tok": 10, "id": 6453237, "gold": "Vehicle loan", "sec": 2.4461208330030786}
+{"pred": "Money transfer", "p": 0.5268874212131063, "raw": null, "in_tok": 353, "out_tok": 10, "id": 5099192, "gold": "Money transfer", "sec": 2.0776440420013387}
+{"pred": "Personal loan", "p": 0.9508788805023527, "raw": null, "in_tok": 533, "out_tok": 10, "id": 3383781, "gold": "Student loan", "sec": 2.854861500003608}
+{"pred": "Credit card", "p": 0.9189281549122876, "raw": null, "in_tok": 449, "out_tok": 10, "id": 4106492, "gold": "Personal loan", "sec": 2.4942737499950454}
+{"pred": "Mortgage", "p": 0.9656625049331453, "raw": null, "in_tok": 281, "out_tok": 11, "id": 6681950, "gold": "Mortgage", "sec": 1.86171558299975}
+{"pred": "Credit card", "p": 0.9212208756272657, "raw": null, "in_tok": 349, "out_tok": 10, "id": 6790630, "gold": "Bank account", "sec": 2.064346333994763}
+{"pred": "Bank account", "p": 0.9473384092725996, "raw": null, "in_tok": 257, "out_tok": 10, "id": 6033397, "gold": "Money transfer", "sec": 1.6731840829888824}
+{"pred": "Money transfer", "p": 0.9641242838908216, "raw": null, "in_tok": 426, "out_tok": 10, "id": 4325248, "gold": "Money transfer", "sec": 2.4479870829964057}
+{"pred": "Bank account", "p": 0.6203826962499328, "raw": null, "in_tok": 290, "out_tok": 10, "id": 3943845, "gold": "Mortgage", "sec": 1.8111867089901352}
+{"pred": "Debt collection", "p": 0.9836820234591711, "raw": null, "in_tok": 213, "out_tok": 11, "id": 2988590, "gold": "Debt collection", "sec": 1.5845089580107015}
+{"pred": "Credit card", "p": 0.8499649585224968, "raw": null, "in_tok": 523, "out_tok": 10, "id": 5995521, "gold": "Bank account", "sec": 2.8454673749947688}
+{"pred": "Student loan", "p": 0.9202050984133658, "raw": null, "in_tok": 298, "out_tok": 10, "id": 3074612, "gold": "Student loan", "sec": 1.9328856670035748}
+{"pred": "Bank account", "p": 0.9456551333778821, "raw": null, "in_tok": 433, "out_tok": 10, "id": 3045587, "gold": "Bank account", "sec": 2.4542958329984685}
+{"pred": "Credit card", "p": 0.5190753481750643, "raw": null, "in_tok": 266, "out_tok": 10, "id": 6852871, "gold": "Credit reporting", "sec": 1.8163089159934316}
+{"pred": "Bank account", "p": 0.9818459020372121, "raw": null, "in_tok": 215, "out_tok": 10, "id": 6572630, "gold": "Bank account", "sec": 1.5300940419983817}
+{"pred": "Credit card", "p": 0.8785063235351932, "raw": null, "in_tok": 332, "out_tok": 10, "id": 6371911, "gold": "Credit card", "sec": 2.0551074169925414}
+{"pred": "Bank account", "p": 0.9230162774307875, "raw": null, "in_tok": 525, "out_tok": 10, "id": 5791413, "gold": "Money transfer", "sec": 2.8502065829961793}
+{"pred": "Vehicle loan", "p": 0.49237796775390386, "raw": null, "in_tok": 347, "out_tok": 10, "id": 3154529, "gold": "Vehicle loan", "sec": 2.075300957993022}
+{"pred": "Mortgage", "p": 0.9739458445426196, "raw": null, "in_tok": 470, "out_tok": 11, "id": 3739289, "gold": "Mortgage", "sec": 2.6462037089950172}
+{"pred": "Credit reporting", "p": 0.932745849503793, "raw": null, "in_tok": 205, "out_tok": 10, "id": 6789082, "gold": "Debt collection", "sec": 1.5441445840115193}
+{"pred": "Credit reporting", "p": 0.9226181154183, "raw": null, "in_tok": 450, "out_tok": 10, "id": 5477412, "gold": "Personal loan", "sec": 2.457530500003486}
+{"pred": "Credit reporting", "p": 0.9159405174705717, "raw": null, "in_tok": 207, "out_tok": 10, "id": 4490140, "gold": "Credit reporting", "sec": 1.5435376249952242}
+{"pred": "Student loan", "p": 0.8908086121457206, "raw": null, "in_tok": 352, "out_tok": 10, "id": 6320675, "gold": "Student loan", "sec": 2.0658059169945773}
+{"pred": "Bank account", "p": 0.44013986520579657, "raw": null, "in_tok": 459, "out_tok": 10, "id": 3710595, "gold": "Money transfer", "sec": 2.60435733399936}
+{"pred": "Student loan", "p": 0.969333048155095, "raw": null, "in_tok": 570, "out_tok": 10, "id": 3105141, "gold": "Student loan", "sec": 2.9903012919967296}
+{"pred": "Student loan", "p": 0.9109847085914098, "raw": null, "in_tok": 351, "out_tok": 10, "id": 3162597, "gold": "Student loan", "sec": 2.074102083002799}
+{"pred": "Debt collection", "p": 0.7689770838341861, "raw": null, "in_tok": 328, "out_tok": 11, "id": 2912119, "gold": "Debt collection", "sec": 2.1192237499926705}
+{"pred": "Mortgage", "p": 0.979058048292212, "raw": null, "in_tok": 519, "out_tok": 11, "id": 3926520, "gold": "Mortgage", "sec": 2.919318457992631}
+{"pred": "Student loan", "p": 0.9676176390916792, "raw": null, "in_tok": 420, "out_tok": 10, "id": 6032566, "gold": "Student loan", "sec": 2.3202862500038464}
+{"pred": "Bank account", "p": 0.3895977818145348, "raw": null, "in_tok": 457, "out_tok": 10, "id": 5294643, "gold": "Money transfer", "sec": 2.5894810420140857}
+{"pred": "Bank account", "p": 0.9203060491829037, "raw": null, "in_tok": 446, "out_tok": 13, "id": 6452393, "gold": "Bank account", "sec": 2.634598125005141}
+{"pred": "Credit reporting", "p": 0.7850840735507895, "raw": null, "in_tok": 330, "out_tok": 10, "id": 6298277, "gold": "Debt collection", "sec": 2.063080917010666}
+{"pred": "Vehicle loan", "p": 0.9273948669426296, "raw": null, "in_tok": 319, "out_tok": 10, "id": 6033883, "gold": "Vehicle loan", "sec": 1.933251124995877}
+{"pred": "Bank account", "p": 0.9082196988890672, "raw": null, "in_tok": 304, "out_tok": 10, "id": 6811160, "gold": "Money transfer", "sec": 1.9293435419967864}
+{"pred": "Personal loan", "p": 0.9232153001303871, "raw": null, "in_tok": 295, "out_tok": 10, "id": 4280858, "gold": "Personal loan", "sec": 1.9402377500082366}
+{"pred": "Mortgage", "p": 0.49015764649015564, "raw": null, "in_tok": 508, "out_tok": 11, "id": 4917987, "gold": "Vehicle loan", "sec": 2.7991705419990467}
+{"pred": "Credit reporting", "p": 0.9071067648298119, "raw": null, "in_tok": 280, "out_tok": 10, "id": 7533495, "gold": "Credit reporting", "sec": 1.8209756670112256}
+{"pred": "Debt collection", "p": 0.6840748594424111, "raw": null, "in_tok": 277, "out_tok": 11, "id": 5836234, "gold": "Credit card", "sec": 1.8538278750056634}
+{"pred": "Debt collection", "p": 0.9778548525712304, "raw": null, "in_tok": 309, "out_tok": 11, "id": 5575477, "gold": "Debt collection", "sec": 1.978878416994121}
+{"pred": "Credit card", "p": 0.8780604924496718, "raw": null, "in_tok": 616, "out_tok": 13, "id": 6785582, "gold": "Credit card", "sec": 3.409284958994249}
+{"pred": "Credit card", "p": 0.9077569008208016, "raw": null, "in_tok": 434, "out_tok": 10, "id": 6463349, "gold": "Credit card", "sec": 2.4605407909984933}
+{"pred": "Personal loan", "p": 0.4654989106403503, "raw": null, "in_tok": 283, "out_tok": 10, "id": 6572837, "gold": "Personal loan", "sec": 1.8081025830033468}
+{"pred": "Debt collection", "p": 0.9126497457651609, "raw": null, "in_tok": 595, "out_tok": 11, "id": 3389010, "gold": "Debt collection", "sec": 3.165716292001889}
+{"pred": "Credit card", "p": 0.810096263888072, "raw": null, "in_tok": 437, "out_tok": 10, "id": 7170829, "gold": "Credit reporting", "sec": 2.4924874999996973}
+{"pred": "Bank account", "p": 0.8811068940975804, "raw": null, "in_tok": 350, "out_tok": 10, "id": 6849743, "gold": "Bank account", "sec": 2.069673416990554}
+{"pred": "Credit card", "p": 0.9148200239516558, "raw": null, "in_tok": 344, "out_tok": 10, "id": 5909527, "gold": "Credit card", "sec": 2.0665834579995135}
+{"pred": "Debt collection", "p": 0.9605072900664605, "raw": null, "in_tok": 522, "out_tok": 11, "id": 7804800, "gold": "Personal loan", "sec": 2.9038103750062874}
+{"pred": "Mortgage", "p": 0.9812962641415314, "raw": null, "in_tok": 355, "out_tok": 11, "id": 5148003, "gold": "Mortgage", "sec": 2.137395625002682}
+{"pred": "Credit card", "p": 0.5977574161122704, "raw": null, "in_tok": 297, "out_tok": 10, "id": 4015011, "gold": "Credit reporting", "sec": 1.9394631670002127}
+{"pred": "Debt collection", "p": 0.9279260225567332, "raw": null, "in_tok": 219, "out_tok": 11, "id": 3364525, "gold": "Personal loan", "sec": 1.5887789169937605}
+{"pred": "Personal loan", "p": 0.6205532417281675, "raw": null, "in_tok": 329, "out_tok": 10, "id": 6033979, "gold": "Personal loan", "sec": 2.0550364579976304}
+{"pred": "Credit card", "p": 0.8551452465761311, "raw": null, "in_tok": 497, "out_tok": 10, "id": 6032556, "gold": "Personal loan", "sec": 2.735368416993879}
+{"pred": "Credit reporting", "p": 0.9506783224682797, "raw": null, "in_tok": 225, "out_tok": 10, "id": 3452002, "gold": "Credit card", "sec": 1.5612376670032972}
+{"pred": "Credit card", "p": 0.9101818881964282, "raw": null, "in_tok": 352, "out_tok": 10, "id": 5706320, "gold": "Credit card", "sec": 2.0798507920117117}
+{"pred": "Personal loan", "p": 0.6893563820477362, "raw": null, "in_tok": 221, "out_tok": 10, "id": 5087559, "gold": "Personal loan", "sec": 1.5361942500021541}
+{"pred": "Credit card", "p": 0.8978495475142857, "raw": null, "in_tok": 299, "out_tok": 10, "id": 6596678, "gold": "Credit card", "sec": 1.921227667000494}
+{"pred": "Credit card", "p": 0.5145237891464811, "raw": null, "in_tok": 478, "out_tok": 13, "id": 7276363, "gold": "Credit card", "sec": 2.7584216660034144}
+{"pred": "Credit reporting", "p": 0.9149673845207369, "raw": null, "in_tok": 285, "out_tok": 10, "id": 6767291, "gold": "Credit reporting", "sec": 1.8057425000006333}
+{"pred": "Vehicle loan", "p": 0.9208304902957373, "raw": null, "in_tok": 556, "out_tok": 10, "id": 3787122, "gold": "Vehicle loan", "sec": 2.9828882080037147}
+{"pred": "Money transfer", "p": 0.7806053647639459, "raw": null, "in_tok": 265, "out_tok": 10, "id": 4388624, "gold": "Money transfer", "sec": 1.809569000004558}
+{"pred": "Bank account", "p": 0.9391340883478159, "raw": null, "in_tok": 258, "out_tok": 10, "id": 4818784, "gold": "Credit card", "sec": 1.6702826660039136}
+{"pred": "Student loan", "p": 0.9189923195795651, "raw": null, "in_tok": 284, "out_tok": 13, "id": 3298029, "gold": "Student loan", "sec": 1.9624285000027157}
+{"pred": "Credit reporting", "p": 0.9174517885778021, "raw": null, "in_tok": 527, "out_tok": 10, "id": 7061279, "gold": "Credit reporting", "sec": 2.862676332995761}
+{"pred": "Credit reporting", "p": 0.9440002731864549, "raw": null, "in_tok": 400, "out_tok": 10, "id": 5266453, "gold": "Credit reporting", "sec": 2.3299627090018475}
+{"pred": "Vehicle loan", "p": 0.3665647753655272, "raw": null, "in_tok": 354, "out_tok": 10, "id": 7388775, "gold": "Personal loan", "sec": 2.068859541992424}
+{"pred": "Student loan", "p": 0.9386255294733975, "raw": null, "in_tok": 366, "out_tok": 10, "id": 4525550, "gold": "Student loan", "sec": 2.191313208997599}
+{"pred": "Debt collection", "p": 0.9818100475509204, "raw": null, "in_tok": 229, "out_tok": 11, "id": 5139500, "gold": "Credit card", "sec": 1.7168084159930004}
+{"pred": "Bank account", "p": 0.6848310996209173, "raw": null, "in_tok": 351, "out_tok": 10, "id": 2890690, "gold": "Personal loan", "sec": 2.064008166998974}
+{"pred": "Bank account", "p": 0.6098978105166581, "raw": null, "in_tok": 522, "out_tok": 10, "id": 7275053, "gold": "Bank account", "sec": 2.851126084002317}
+{"pred": "Credit reporting", "p": 0.9130938052555485, "raw": null, "in_tok": 281, "out_tok": 10, "id": 3663392, "gold": "Vehicle loan", "sec": 1.819573291009874}
+{"pred": "Money transfer", "p": 0.9605969715472814, "raw": null, "in_tok": 275, "out_tok": 10, "id": 7467427, "gold": "Money transfer", "sec": 1.7992707500088727}
+{"pred": "Money transfer", "p": 0.3666321279090652, "raw": null, "in_tok": 293, "out_tok": 10, "id": 7311603, "gold": "Money transfer", "sec": 1.9201979999925243}
+{"pred": "Vehicle loan", "p": 0.9209896161876174, "raw": null, "in_tok": 632, "out_tok": 10, "id": 5878975, "gold": "Vehicle loan", "sec": 3.2553072089940542}
+{"pred": "Vehicle loan", "p": 0.9271643126089213, "raw": null, "in_tok": 416, "out_tok": 10, "id": 7359250, "gold": "Vehicle loan", "sec": 2.3571279169991612}
+{"pred": "Credit card", "p": 0.9090611278376066, "raw": null, "in_tok": 534, "out_tok": 10, "id": 5926858, "gold": "Credit card", "sec": 2.8750080419995356}
+{"pred": "Credit reporting", "p": 0.7873457228598655, "raw": null, "in_tok": 289, "out_tok": 10, "id": 7818230, "gold": "Credit card", "sec": 1.8280992910003988}
+{"pred": "Debt collection", "p": 0.9683214197823768, "raw": null, "in_tok": 333, "out_tok": 11, "id": 3787056, "gold": "Debt collection", "sec": 2.1122428749949904}
+{"pred": "Debt collection", "p": 0.9535088242432068, "raw": null, "in_tok": 426, "out_tok": 11, "id": 3783964, "gold": "Debt collection", "sec": 2.5092198329948587}
+{"pred": "Mortgage", "p": 0.8331297159060563, "raw": null, "in_tok": 280, "out_tok": 11, "id": 5928145, "gold": "Mortgage", "sec": 1.8593123750033556}
+{"pred": "Credit reporting", "p": 0.9169155017867776, "raw": null, "in_tok": 352, "out_tok": 10, "id": 7061541, "gold": "Credit reporting", "sec": 2.0642611250077607}
+{"pred": "Credit reporting", "p": 0.9387004464961897, "raw": null, "in_tok": 243, "out_tok": 10, "id": 6383069, "gold": "Credit reporting", "sec": 1.6678263750072801}
+{"pred": "Debt collection", "p": 0.8199980765941444, "raw": null, "in_tok": 476, "out_tok": 11, "id": 7487096, "gold": "Debt collection", "sec": 2.647245958010899}
+{"pred": "Money transfer", "p": 0.9475233690429737, "raw": null, "in_tok": 199, "out_tok": 10, "id": 3109331, "gold": "Money transfer", "sec": 1.5323308749939315}
+{"pred": "Mortgage", "p": 0.9798810146968543, "raw": null, "in_tok": 418, "out_tok": 11, "id": 4108382, "gold": "Mortgage", "sec": 2.3826041249994887}
+{"pred": "Credit card", "p": 0.44263734760792256, "raw": null, "in_tok": 272, "out_tok": 10, "id": 3664025, "gold": "Money transfer", "sec": 1.8280620829900727}
+{"pred": "Money transfer", "p": 0.910506168134257, "raw": null, "in_tok": 504, "out_tok": 10, "id": 7163955, "gold": "Money transfer", "sec": 2.7235142919962527}
+{"pred": "Money transfer", "p": 0.9499858231884485, "raw": null, "in_tok": 335, "out_tok": 10, "id": 5476282, "gold": "Bank account", "sec": 2.0647006660001352}
+{"pred": "Student loan", "p": 0.9271150769068738, "raw": null, "in_tok": 456, "out_tok": 10, "id": 3282106, "gold": "Student loan", "sec": 2.602133792010136}
+{"pred": "Vehicle loan", "p": 0.9365319637115967, "raw": null, "in_tok": 544, "out_tok": 10, "id": 4307396, "gold": "Vehicle loan", "sec": 2.8723550840077223}
+{"pred": "Debt collection", "p": 0.8509357527065484, "raw": null, "in_tok": 590, "out_tok": 14, "id": 2829404, "gold": "Debt collection", "sec": 3.3310941250092583}
+{"pred": "Student loan", "p": 0.9321822353043187, "raw": null, "in_tok": 420, "out_tok": 10, "id": 7660432, "gold": "Student loan", "sec": 2.324671374997706}
+{"pred": "Credit card", "p": 0.6292684302956026, "raw": null, "in_tok": 352, "out_tok": 10, "id": 3971980, "gold": "Money transfer", "sec": 2.084530249994714}
+{"pred": "Credit reporting", "p": 0.9576772586914493, "raw": null, "in_tok": 215, "out_tok": 10, "id": 6178449, "gold": "Credit reporting", "sec": 1.5476242909935536}
+{"pred": "Bank account", "p": 0.9551900624764177, "raw": null, "in_tok": 294, "out_tok": 10, "id": 3540659, "gold": "Bank account", "sec": 1.9216746669990243}
+{"pred": "Credit reporting", "p": 0.9576772586914493, "raw": null, "in_tok": 215, "out_tok": 10, "id": 6205262, "gold": "Credit reporting", "sec": 1.5473501669912366}
+{"pred": "Credit card", "p": 0.9090235831500175, "raw": null, "in_tok": 476, "out_tok": 10, "id": 3749141, "gold": "Credit card", "sec": 2.6019101249985397}
+{"pred": "Bank account", "p": 0.945039369350267, "raw": null, "in_tok": 464, "out_tok": 10, "id": 4250760, "gold": "Bank account", "sec": 2.5889038339955732}
+{"pred": "Vehicle loan", "p": 0.933483211524039, "raw": null, "in_tok": 413, "out_tok": 10, "id": 3661370, "gold": "Vehicle loan", "sec": 2.336343292001402}
+{"pred": "Mortgage", "p": 0.9759297199316211, "raw": null, "in_tok": 247, "out_tok": 11, "id": 2836373, "gold": "Mortgage", "sec": 1.7232259579905076}
+{"pred": "Bank account", "p": 0.5710321956541786, "raw": null, "in_tok": 232, "out_tok": 13, "id": 7052002, "gold": "Bank account", "sec": 1.8222330829885323}
+{"pred": "Credit reporting", "p": 0.9463248491453692, "raw": null, "in_tok": 267, "out_tok": 10, "id": 3164796, "gold": "Credit reporting", "sec": 1.809851833007997}
+{"pred": "Credit reporting", "p": 0.8832522098365299, "raw": null, "in_tok": 473, "out_tok": 10, "id": 3928707, "gold": "Debt collection", "sec": 2.5884054170019226}
+{"pred": "Credit reporting", "p": 0.9149957915600593, "raw": null, "in_tok": 200, "out_tok": 10, "id": 6032529, "gold": "Credit reporting", "sec": 1.526717708009528}
+{"pred": "Bank account", "p": 0.7633335788327109, "raw": null, "in_tok": 264, "out_tok": 10, "id": 7213948, "gold": "Bank account", "sec": 1.7945216250082012}
+{"pred": "Bank account", "p": 0.9442251069265228, "raw": null, "in_tok": 620, "out_tok": 10, "id": 4144585, "gold": "Bank account", "sec": 3.2439874159899773}
+{"pred": "Credit card", "p": 0.9493724147154845, "raw": null, "in_tok": 516, "out_tok": 10, "id": 6961870, "gold": "Credit card", "sec": 2.7179213750059716}
+{"pred": "Vehicle loan", "p": 0.5495303102027052, "raw": null, "in_tok": 583, "out_tok": 10, "id": 3824278, "gold": "Vehicle loan", "sec": 3.112153958994895}
+{"pred": "Credit reporting", "p": 0.9484774562029661, "raw": null, "in_tok": 307, "out_tok": 10, "id": 7863711, "gold": "Debt collection", "sec": 1.943560959000024}
+{"pred": "Money transfer", "p": 0.9273109342806887, "raw": null, "in_tok": 416, "out_tok": 10, "id": 3293891, "gold": "Money transfer", "sec": 2.335207750002155}
+{"pred": "Credit reporting", "p": 0.8945101332642367, "raw": null, "in_tok": 303, "out_tok": 10, "id": 3050400, "gold": "Vehicle loan", "sec": 1.9517470839928137}
+{"pred": "Debt collection", "p": 0.9730248588057695, "raw": null, "in_tok": 325, "out_tok": 11, "id": 7109346, "gold": "Debt collection", "sec": 2.115186374998302}
+{"pred": "Student loan", "p": 0.7236463460281528, "raw": null, "in_tok": 605, "out_tok": 10, "id": 3383853, "gold": "Student loan", "sec": 3.120111750002252}
+{"pred": "Credit card", "p": 0.9119265984603406, "raw": null, "in_tok": 293, "out_tok": 10, "id": 3745993, "gold": "Credit card", "sec": 1.9534630419948371}
+{"pred": "Debt collection", "p": 0.9738329355494778, "raw": null, "in_tok": 483, "out_tok": 11, "id": 3926654, "gold": "Debt collection", "sec": 2.6498391659988556}
+{"pred": "Money transfer", "p": 0.9133595943071142, "raw": null, "in_tok": 319, "out_tok": 10, "id": 2793832, "gold": "Money transfer", "sec": 1.937261999992188}
+{"pred": "Debt collection", "p": 0.9778582482395762, "raw": null, "in_tok": 248, "out_tok": 11, "id": 7018248, "gold": "Debt collection", "sec": 1.7279962920001708}
+{"pred": "Money transfer", "p": 0.9427366569474704, "raw": null, "in_tok": 436, "out_tok": 10, "id": 3257183, "gold": "Money transfer", "sec": 2.448680000001332}
+{"pred": "Debt collection", "p": 0.9543836549567668, "raw": null, "in_tok": 347, "out_tok": 11, "id": 2891512, "gold": "Student loan", "sec": 2.1230561249976745}
+{"pred": "Mortgage", "p": 0.9861833922675433, "raw": null, "in_tok": 304, "out_tok": 11, "id": 8197780, "gold": "Mortgage", "sec": 1.9841434999980265}
+{"pred": "Personal loan", "p": 0.6440562920874073, "raw": null, "in_tok": 511, "out_tok": 10, "id": 5068137, "gold": "Personal loan", "sec": 2.7315735410084017}
+{"pred": "Mortgage", "p": 0.3992007642976315, "raw": null, "in_tok": 259, "out_tok": 11, "id": 5793959, "gold": "Vehicle loan", "sec": 1.7450982499867678}
+{"pred": "Mortgage", "p": 0.9836045377722982, "raw": null, "in_tok": 346, "out_tok": 11, "id": 4275850, "gold": "Mortgage", "sec": 2.1188142920000246}
+{"pred": "Vehicle loan", "p": 0.8948416162165339, "raw": null, "in_tok": 212, "out_tok": 10, "id": 7861913, "gold": "Vehicle loan", "sec": 1.544950625000638}
+{"pred": "Student loan", "p": 0.9554410617059971, "raw": null, "in_tok": 430, "out_tok": 10, "id": 5301297, "gold": "Student loan", "sec": 2.4479096669965656}
+{"pred": "Personal loan", "p": 0.7060883261598911, "raw": null, "in_tok": 465, "out_tok": 10, "id": 3621346, "gold": "Personal loan", "sec": 2.6022984589944826}
+{"pred": "Money transfer", "p": 0.8728041751813433, "raw": null, "in_tok": 318, "out_tok": 10, "id": 5624308, "gold": "Money transfer", "sec": 1.9348437919979915}
+{"pred": "Credit card", "p": 0.9220533882549976, "raw": null, "in_tok": 208, "out_tok": 10, "id": 3383850, "gold": "Credit card", "sec": 1.5471614580019377}
+{"pred": "Credit card", "p": 0.9347347041625244, "raw": null, "in_tok": 271, "out_tok": 13, "id": 5950809, "gold": "Credit card", "sec": 1.9584965410031145}
+{"pred": "Debt collection", "p": 0.9767115280241127, "raw": null, "in_tok": 369, "out_tok": 11, "id": 7722421, "gold": "Debt collection", "sec": 2.2695388330030255}
+{"pred": "Credit reporting", "p": 0.8968556068437137, "raw": null, "in_tok": 243, "out_tok": 10, "id": 5500165, "gold": "Credit reporting", "sec": 1.6925978330109501}
+{"pred": "Student loan", "p": 0.8773611974592764, "raw": null, "in_tok": 480, "out_tok": 10, "id": 6096991, "gold": "Student loan", "sec": 2.592858541989699}
+{"pred": "Student loan", "p": 0.8680351767194714, "raw": null, "in_tok": 500, "out_tok": 10, "id": 7931803, "gold": "Student loan", "sec": 2.740792708005756}
+{"pred": "Credit card", "p": 0.6223357670076882, "raw": null, "in_tok": 407, "out_tok": 10, "id": 3447057, "gold": "Credit card", "sec": 2.3563603749935282}
+{"pred": "Mortgage", "p": 0.7050063017733309, "raw": null, "in_tok": 263, "out_tok": 11, "id": 6370789, "gold": "Student loan", "sec": 1.853966542010312}
+{"pred": "Student loan", "p": 0.9754363605006316, "raw": null, "in_tok": 379, "out_tok": 10, "id": 7631587, "gold": "Student loan", "sec": 2.1914409159944626}
+{"pred": "Vehicle loan", "p": 0.8373517610585223, "raw": null, "in_tok": 316, "out_tok": 10, "id": 2908475, "gold": "Vehicle loan", "sec": 1.9450987500022165}
+{"pred": "Personal loan", "p": 0.9246790429223459, "raw": null, "in_tok": 272, "out_tok": 10, "id": 4492104, "gold": "Personal loan", "sec": 1.8076097919984022}
+{"pred": "Vehicle loan", "p": 0.904313629156522, "raw": null, "in_tok": 349, "out_tok": 10, "id": 7429670, "gold": "Vehicle loan", "sec": 2.0629442500066943}
+{"pred": "Credit reporting", "p": 0.5932854135586604, "raw": null, "in_tok": 246, "out_tok": 10, "id": 4485684, "gold": "Credit reporting", "sec": 1.6730536660033977}
+{"pred": "Credit card", "p": 0.8797077850810897, "raw": null, "in_tok": 534, "out_tok": 10, "id": 4040178, "gold": "Credit card", "sec": 2.8518262909929035}
+{"pred": "Credit card", "p": 0.5048543440637226, "raw": null, "in_tok": 555, "out_tok": 10, "id": 4720547, "gold": "Personal loan", "sec": 3.002122000005329}
+{"pred": "Student loan", "p": 0.8692197199644953, "raw": null, "in_tok": 460, "out_tok": 10, "id": 5928193, "gold": "Student loan", "sec": 2.6185702920047333}
+{"pred": "Student loan", "p": 0.9210657968027283, "raw": null, "in_tok": 430, "out_tok": 13, "id": 7961991, "gold": "Student loan", "sec": 2.635500874996069}
+{"pred": "Student loan", "p": 0.9214204122447462, "raw": null, "in_tok": 450, "out_tok": 10, "id": 3212531, "gold": "Student loan", "sec": 2.475295999989612}
+{"pred": "Personal loan", "p": 0.41669081225376897, "raw": null, "in_tok": 223, "out_tok": 10, "id": 7024609, "gold": "Personal loan", "sec": 1.548707124995417}
+{"pred": "Bank account", "p": 0.9485331540952772, "raw": null, "in_tok": 456, "out_tok": 10, "id": 5737359, "gold": "Bank account", "sec": 2.581148500001291}
+{"pred": "Debt collection", "p": 0.6935533799036758, "raw": null, "in_tok": 491, "out_tok": 11, "id": 5811945, "gold": "Personal loan", "sec": 2.790988417007611}
+{"pred": "Credit card", "p": 0.3867665930915602, "raw": null, "in_tok": 532, "out_tok": 10, "id": 7602158, "gold": "Personal loan", "sec": 2.8960740420006914}
+{"pred": "Credit card", "p": 0.9203412578840926, "raw": null, "in_tok": 245, "out_tok": 10, "id": 6137890, "gold": "Credit card", "sec": 1.696405209004297}
+{"pred": "Vehicle loan", "p": 0.9009364615180875, "raw": null, "in_tok": 258, "out_tok": 10, "id": 5048447, "gold": "Vehicle loan", "sec": 1.68505037498835}
+{"pred": "Credit card", "p": 0.8627165283922392, "raw": null, "in_tok": 428, "out_tok": 10, "id": 6964618, "gold": "Bank account", "sec": 2.446761749990401}
+{"pred": "Bank account", "p": 0.9459757049225589, "raw": null, "in_tok": 530, "out_tok": 10, "id": 5076640, "gold": "Bank account", "sec": 2.863547375003691}
+{"pred": "Vehicle loan", "p": 0.9136742497872543, "raw": null, "in_tok": 288, "out_tok": 10, "id": 7805464, "gold": "Personal loan", "sec": 1.8338645000039833}
+{"pred": "Credit reporting", "p": 0.9503076225223859, "raw": null, "in_tok": 311, "out_tok": 10, "id": 5573971, "gold": "Credit reporting", "sec": 1.927852291992167}
+{"pred": "Bank account", "p": 0.9404620348687934, "raw": null, "in_tok": 412, "out_tok": 10, "id": 6908694, "gold": "Bank account", "sec": 2.348304792001727}
+{"pred": "Credit reporting", "p": 0.9605256600057365, "raw": null, "in_tok": 218, "out_tok": 10, "id": 5012707, "gold": "Credit reporting", "sec": 1.5515368330088677}
+{"pred": "Personal loan", "p": 0.9064972254341004, "raw": null, "in_tok": 225, "out_tok": 10, "id": 3383889, "gold": "Personal loan", "sec": 1.5290416659991024}
+{"pred": "Mortgage", "p": 0.5212293701723482, "raw": null, "in_tok": 528, "out_tok": 11, "id": 6115467, "gold": "Student loan", "sec": 2.9021856670005945}
+{"pred": "Credit card", "p": 0.5962258774988438, "raw": null, "in_tok": 361, "out_tok": 10, "id": 4576721, "gold": "Vehicle loan", "sec": 2.223233041993808}
+{"pred": "Credit reporting", "p": 0.9088561600187437, "raw": null, "in_tok": 343, "out_tok": 13, "id": 6641103, "gold": "Debt collection", "sec": 2.257823374995496}
+{"pred": "Credit reporting", "p": 0.8461589696830127, "raw": null, "in_tok": 481, "out_tok": 10, "id": 5950639, "gold": "Vehicle loan", "sec": 2.60034008299408}
+{"pred": "Mortgage", "p": 0.8591042860523959, "raw": null, "in_tok": 252, "out_tok": 11, "id": 6565917, "gold": "Mortgage", "sec": 1.751535208997666}
+{"pred": "Bank account", "p": 0.9355039402194938, "raw": null, "in_tok": 473, "out_tok": 10, "id": 3358176, "gold": "Bank account", "sec": 2.5885664999950677}
+{"pred": "Mortgage", "p": 0.9724074096648752, "raw": null, "in_tok": 408, "out_tok": 11, "id": 3018149, "gold": "Mortgage", "sec": 2.4081645000114804}
+{"pred": "Credit reporting", "p": 0.9363296128869749, "raw": null, "in_tok": 274, "out_tok": 10, "id": 5667627, "gold": "Credit reporting", "sec": 1.8110241660033353}
+{"pred": "Credit card", "p": 0.8073501892776739, "raw": null, "in_tok": 301, "out_tok": 10, "id": 6561391, "gold": "Bank account", "sec": 1.9388067499967292}
+{"pred": "Credit card", "p": 0.37885703905114543, "raw": null, "in_tok": 301, "out_tok": 10, "id": 5639187, "gold": "Personal loan", "sec": 1.9532422079937533}
+{"pred": "Mortgage", "p": 0.9792799996199698, "raw": null, "in_tok": 521, "out_tok": 11, "id": 5197370, "gold": "Mortgage", "sec": 2.9171195840026485}
+{"pred": "Bank account", "p": 0.7570180042931005, "raw": null, "in_tok": 451, "out_tok": 10, "id": 6965007, "gold": "Credit card", "sec": 2.4776895830000285}
+{"pred": "Vehicle loan", "p": 0.9666235307247306, "raw": null, "in_tok": 245, "out_tok": 10, "id": 6349092, "gold": "Vehicle loan", "sec": 1.6960278329934226}
+{"pred": "Student loan", "p": 0.9591269152016871, "raw": null, "in_tok": 484, "out_tok": 10, "id": 2968564, "gold": "Student loan", "sec": 2.5722060420084745}
+{"pred": "Credit card", "p": 0.9011332549028429, "raw": null, "in_tok": 244, "out_tok": 10, "id": 4555387, "gold": "Credit card", "sec": 1.6868672910059104}
+{"pred": "Student loan", "p": 0.8898707828212076, "raw": null, "in_tok": 358, "out_tok": 10, "id": 3961948, "gold": "Student loan", "sec": 2.199848833013675}
+{"pred": "Credit reporting", "p": 0.5863974406685322, "raw": null, "in_tok": 297, "out_tok": 10, "id": 6406847, "gold": "Personal loan", "sec": 1.9515037499950267}
+{"pred": "Vehicle loan", "p": 0.9268407964014382, "raw": null, "in_tok": 376, "out_tok": 13, "id": 3282205, "gold": "Personal loan", "sec": 2.368343666996225}
+{"pred": "Bank account", "p": 0.9267674434507381, "raw": null, "in_tok": 305, "out_tok": 10, "id": 4177074, "gold": "Bank account", "sec": 1.9453416659962386}
+{"pred": "Money transfer", "p": 0.9577642788218834, "raw": null, "in_tok": 298, "out_tok": 13, "id": 5624172, "gold": "Money transfer", "sec": 2.1372653750004247}
+{"pred": "Credit reporting", "p": 0.9543922649632773, "raw": null, "in_tok": 247, "out_tok": 10, "id": 2948969, "gold": "Credit card", "sec": 1.6907916249911068}
+{"pred": "Student loan", "p": 0.8681733185228746, "raw": null, "in_tok": 493, "out_tok": 10, "id": 3905266, "gold": "Student loan", "sec": 2.720766458005528}
+{"pred": "Personal loan", "p": 0.6686167241056515, "raw": null, "in_tok": 243, "out_tok": 10, "id": 5340543, "gold": "Personal loan", "sec": 1.6959964999987278}
+{"pred": "Bank account", "p": 0.9656981103954315, "raw": null, "in_tok": 361, "out_tok": 10, "id": 7949971, "gold": "Bank account", "sec": 2.183732000004966}
+{"pred": "Debt collection", "p": 0.904596192277326, "raw": null, "in_tok": 392, "out_tok": 11, "id": 3243513, "gold": "Debt collection", "sec": 2.3818812499957858}
+{"pred": "Money transfer", "p": 0.7586473263065473, "raw": null, "in_tok": 272, "out_tok": 10, "id": 4430556, "gold": "Money transfer", "sec": 1.8214286669972353}
+{"pred": "Credit card", "p": 0.9237591988984588, "raw": null, "in_tok": 270, "out_tok": 10, "id": 4626212, "gold": "Credit card", "sec": 1.8174426250043325}
+{"pred": "Debt collection", "p": 0.9822169849241668, "raw": null, "in_tok": 361, "out_tok": 11, "id": 4226819, "gold": "Debt collection", "sec": 2.237887208000757}
+{"pred": "Bank account", "p": 0.8894066395576012, "raw": null, "in_tok": 201, "out_tok": 10, "id": 3747294, "gold": "Mortgage", "sec": 1.5407199170003878}
+{"pred": "Bank account", "p": 0.6241433598316546, "raw": null, "in_tok": 201, "out_tok": 10, "id": 3784727, "gold": "Bank account", "sec": 1.5220978330034995}
+{"pred": "Credit reporting", "p": 0.86409755244543, "raw": null, "in_tok": 292, "out_tok": 10, "id": 3428505, "gold": "Credit card", "sec": 1.8078034999925876}
+{"pred": "Student loan", "p": 0.904809542434837, "raw": null, "in_tok": 438, "out_tok": 10, "id": 3212673, "gold": "Student loan", "sec": 2.4542580420093145}
+{"pred": "Bank account", "p": 0.9494949547103312, "raw": null, "in_tok": 448, "out_tok": 10, "id": 7544170, "gold": "Bank account", "sec": 2.467211707989918}
+{"pred": "Credit card", "p": 0.9366993756052714, "raw": null, "in_tok": 241, "out_tok": 10, "id": 7693549, "gold": "Credit card", "sec": 1.7000850420008646}
+{"pred": "Mortgage", "p": 0.9822550868104684, "raw": null, "in_tok": 552, "out_tok": 11, "id": 3074079, "gold": "Mortgage", "sec": 3.0355994170095073}
+{"pred": "Credit reporting", "p": 0.9380593649580339, "raw": null, "in_tok": 300, "out_tok": 10, "id": 7444735, "gold": "Credit reporting", "sec": 1.925582541996846}
+{"pred": "Money transfer", "p": 0.9555246411748001, "raw": null, "in_tok": 328, "out_tok": 10, "id": 3749196, "gold": "Money transfer", "sec": 2.0683460000000196}
+{"pred": "Credit reporting", "p": 0.7573169782484152, "raw": null, "in_tok": 406, "out_tok": 10, "id": 4520515, "gold": "Debt collection", "sec": 2.3531852080050157}
+{"pred": "Mortgage", "p": 0.9843656756511097, "raw": null, "in_tok": 447, "out_tok": 11, "id": 2938613, "gold": "Mortgage", "sec": 2.534126667000237}
+{"pred": "Bank account", "p": 0.9589362113844815, "raw": null, "in_tok": 425, "out_tok": 10, "id": 5926228, "gold": "Bank account", "sec": 2.469676792010432}
+{"pred": "Bank account", "p": 0.8195704330416599, "raw": null, "in_tok": 269, "out_tok": 10, "id": 5748314, "gold": "Bank account", "sec": 1.8041040420066565}
+{"pred": "Credit reporting", "p": 0.8623820230146266, "raw": null, "in_tok": 319, "out_tok": 10, "id": 3944889, "gold": "Vehicle loan", "sec": 1.9453946669964353}
+{"pred": "Vehicle loan", "p": 0.8350579815285403, "raw": null, "in_tok": 366, "out_tok": 10, "id": 6032511, "gold": "Vehicle loan", "sec": 2.2112883330119075}
+{"pred": "Credit reporting", "p": 0.9424807482596775, "raw": null, "in_tok": 520, "out_tok": 10, "id": 6788681, "gold": "Vehicle loan", "sec": 2.8505965000076685}
+{"pred": "Credit card", "p": 0.9489767687773324, "raw": null, "in_tok": 270, "out_tok": 10, "id": 3074689, "gold": "Credit card", "sec": 1.8300664580019657}
+{"pred": "Bank account", "p": 0.9129158957124933, "raw": null, "in_tok": 389, "out_tok": 10, "id": 3832826, "gold": "Bank account", "sec": 2.316996540990658}
+{"pred": "Personal loan", "p": 0.38075733873217793, "raw": null, "in_tok": 525, "out_tok": 10, "id": 3358523, "gold": "Money transfer", "sec": 2.8780372079927474}
+{"pred": "Vehicle loan", "p": 0.9036238766266823, "raw": null, "in_tok": 288, "out_tok": 10, "id": 6033398, "gold": "Vehicle loan", "sec": 1.8387890419980977}
+{"pred": "Bank account", "p": 0.9608449644830986, "raw": null, "in_tok": 220, "out_tok": 10, "id": 6879068, "gold": "Bank account", "sec": 1.5327289169945288}
+{"pred": "Student loan", "p": 0.8928125089024047, "raw": null, "in_tok": 328, "out_tok": 10, "id": 7510582, "gold": "Student loan", "sec": 2.0551722920063185}
+{"pred": "Credit reporting", "p": 0.953971952437469, "raw": null, "in_tok": 310, "out_tok": 10, "id": 7251810, "gold": "Credit reporting", "sec": 1.9499907079880359}
+{"pred": "Money transfer", "p": 0.6699500092380605, "raw": null, "in_tok": 318, "out_tok": 13, "id": 3383966, "gold": "Money transfer", "sec": 2.1156093339959625}
+{"pred": "Bank account", "p": 0.9586522784376643, "raw": null, "in_tok": 222, "out_tok": 13, "id": 7844483, "gold": "Bank account", "sec": 1.702018042007694}
+{"pred": "Credit card", "p": 0.9226724219374839, "raw": null, "in_tok": 421, "out_tok": 10, "id": 6748561, "gold": "Credit card", "sec": 2.4560153749916935}
+{"pred": "Debt collection", "p": 0.9302838547942212, "raw": null, "in_tok": 287, "out_tok": 11, "id": 2934153, "gold": "Debt collection", "sec": 1.8684908330033068}
+{"pred": "Debt collection", "p": 0.9782478748385678, "raw": null, "in_tok": 232, "out_tok": 11, "id": 4410304, "gold": "Debt collection", "sec": 1.7191179170040414}
+{"pred": "Money transfer", "p": 0.7168719507387935, "raw": null, "in_tok": 296, "out_tok": 10, "id": 5909534, "gold": "Money transfer", "sec": 1.9228434579999885}
+{"pred": "Vehicle loan", "p": 0.933220268148814, "raw": null, "in_tok": 300, "out_tok": 10, "id": 2918141, "gold": "Vehicle loan", "sec": 1.9450292499968782}
+{"pred": "Credit card", "p": 0.8952108191086535, "raw": null, "in_tok": 313, "out_tok": 10, "id": 4341376, "gold": "Credit reporting", "sec": 1.9665285420051077}
+{"pred": "Student loan", "p": 0.8615053504489729, "raw": null, "in_tok": 565, "out_tok": 10, "id": 6026526, "gold": "Student loan", "sec": 2.991530083003454}
+{"pred": "Debt collection", "p": 0.4972894985803245, "raw": null, "in_tok": 430, "out_tok": 11, "id": 5386492, "gold": "Debt collection", "sec": 2.526389417005703}
+{"pred": "Bank account", "p": 0.9713155324573755, "raw": null, "in_tok": 221, "out_tok": 10, "id": 6448349, "gold": "Bank account", "sec": 1.5541137079999316}
+{"pred": "Bank account", "p": 0.5124909430551164, "raw": null, "in_tok": 266, "out_tok": 10, "id": 5978375, "gold": "Bank account", "sec": 1.7942833750130376}
+{"pred": "Student loan", "p": 0.9442974192024962, "raw": null, "in_tok": 202, "out_tok": 10, "id": 4618341, "gold": "Student loan", "sec": 1.5238511250063311}
+{"pred": "Debt collection", "p": 0.48621157633804646, "raw": null, "in_tok": 536, "out_tok": 11, "id": 3065143, "gold": "Debt collection", "sec": 2.903110375002143}
+{"pred": "Mortgage", "p": 0.7204172406012453, "raw": null, "in_tok": 433, "out_tok": 11, "id": 3615569, "gold": "Mortgage", "sec": 2.5200895000016317}
+{"pred": "Debt collection", "p": 0.8298401684544756, "raw": null, "in_tok": 236, "out_tok": 11, "id": 4623562, "gold": "Debt collection", "sec": 1.7231470830010949}
+{"pred": "Debt collection", "p": 0.9722105617006469, "raw": null, "in_tok": 367, "out_tok": 11, "id": 2978462, "gold": "Debt collection", "sec": 2.2384567499975674}
+{"pred": "Student loan", "p": 0.9088503598190827, "raw": null, "in_tok": 578, "out_tok": 10, "id": 5147267, "gold": "Student loan", "sec": 2.9987174160050927}
+{"pred": "Student loan", "p": 0.9409690982065032, "raw": null, "in_tok": 480, "out_tok": 10, "id": 3200418, "gold": "Student loan", "sec": 2.613904249999905}
+{"pred": "Credit reporting", "p": 0.9541833714364943, "raw": null, "in_tok": 297, "out_tok": 10, "id": 6814569, "gold": "Credit reporting", "sec": 1.9504165420075879}
+{"pred": "Student loan", "p": 0.8360771387946685, "raw": null, "in_tok": 417, "out_tok": 10, "id": 5622900, "gold": "Debt collection", "sec": 2.346776165999472}
+{"pred": "Bank account", "p": 0.786165900943501, "raw": null, "in_tok": 487, "out_tok": 10, "id": 2821150, "gold": "Bank account", "sec": 2.7308255419920897}
+{"pred": "Credit reporting", "p": 0.8107343906862233, "raw": null, "in_tok": 363, "out_tok": 10, "id": 3565655, "gold": "Credit reporting", "sec": 2.216737541006296}
+{"pred": "Bank account", "p": 0.9311547562358142, "raw": null, "in_tok": 307, "out_tok": 10, "id": 4695131, "gold": "Bank account", "sec": 1.9444200830039335}
+{"pred": "Credit reporting", "p": 0.9512166031128102, "raw": null, "in_tok": 280, "out_tok": 10, "id": 5792819, "gold": "Credit reporting", "sec": 1.8258574579958804}
+{"pred": "Debt collection", "p": 0.9759224574300938, "raw": null, "in_tok": 411, "out_tok": 11, "id": 5065793, "gold": "Debt collection", "sec": 2.3811583750066347}
+{"pred": "Vehicle loan", "p": 0.8534616617662799, "raw": null, "in_tok": 381, "out_tok": 10, "id": 5671058, "gold": "Vehicle loan", "sec": 2.205422416998772}
+{"pred": "Credit reporting", "p": 0.6623441776820125, "raw": null, "in_tok": 505, "out_tok": 10, "id": 6169886, "gold": "Credit reporting", "sec": 2.7364894170023035}
+{"pred": "Mortgage", "p": 0.9689712179170894, "raw": null, "in_tok": 310, "out_tok": 11, "id": 4539561, "gold": "Mortgage", "sec": 1.9882663330063224}
+{"pred": "Bank account", "p": 0.7884087806413792, "raw": null, "in_tok": 531, "out_tok": 10, "id": 3200671, "gold": "Money transfer", "sec": 2.8680700839904603}
+{"pred": "Credit reporting", "p": 0.9315688231004058, "raw": null, "in_tok": 244, "out_tok": 10, "id": 5242804, "gold": "Credit reporting", "sec": 1.672391833999427}
+{"pred": "Credit reporting", "p": 0.8744768434566687, "raw": null, "in_tok": 284, "out_tok": 10, "id": 3846753, "gold": "Credit reporting", "sec": 1.8177092499972787}
+{"pred": "Debt collection", "p": 0.8651138069595806, "raw": null, "in_tok": 244, "out_tok": 11, "id": 6477064, "gold": "Debt collection", "sec": 1.7199008749885252}
+{"pred": "Student loan", "p": 0.861525478169808, "raw": null, "in_tok": 518, "out_tok": 10, "id": 6421876, "gold": "Student loan", "sec": 2.8459767080057645}
+{"pred": "Credit card", "p": 0.912214016403949, "raw": null, "in_tok": 355, "out_tok": 10, "id": 4044244, "gold": "Credit card", "sec": 2.1197870830073953}
+{"pred": "Credit reporting", "p": 0.9203665411303678, "raw": null, "in_tok": 290, "out_tok": 10, "id": 3484048, "gold": "Credit card", "sec": 1.8391427080059657}
+{"pred": "Student loan", "p": 0.8811704580177099, "raw": null, "in_tok": 296, "out_tok": 10, "id": 5154994, "gold": "Student loan", "sec": 1.9288944160070969}
+{"pred": "Credit card", "p": 0.9127134813935308, "raw": null, "in_tok": 286, "out_tok": 10, "id": 5817202, "gold": "Credit card", "sec": 1.8281807499879505}
+{"pred": "Mortgage", "p": 0.9836570436117894, "raw": null, "in_tok": 211, "out_tok": 11, "id": 4144451, "gold": "Mortgage", "sec": 1.5890516249928623}
+{"pred": "Student loan", "p": 0.8864258513333542, "raw": null, "in_tok": 387, "out_tok": 10, "id": 3382038, "gold": "Student loan", "sec": 2.1959126670117257}
+{"pred": "Money transfer", "p": 0.8853837158718217, "raw": null, "in_tok": 310, "out_tok": 10, "id": 5377136, "gold": "Bank account", "sec": 1.9498409160005394}
+{"pred": "Mortgage", "p": 0.9787801599351776, "raw": null, "in_tok": 552, "out_tok": 11, "id": 3484358, "gold": "Mortgage", "sec": 3.069988875009585}
+{"pred": "Money transfer", "p": 0.3849871525099926, "raw": null, "in_tok": 603, "out_tok": 10, "id": 2821127, "gold": "Money transfer", "sec": 3.133441957994364}
+{"pred": "Vehicle loan", "p": 0.6957396795100561, "raw": null, "in_tok": 348, "out_tok": 10, "id": 4805871, "gold": "Vehicle loan", "sec": 2.0953180420037825}
+{"pred": "Debt collection", "p": 0.9661164674677725, "raw": null, "in_tok": 285, "out_tok": 11, "id": 5622990, "gold": "Debt collection", "sec": 1.8689309589972254}
+{"pred": "Credit reporting", "p": 0.7335193886676895, "raw": null, "in_tok": 325, "out_tok": 10, "id": 5125966, "gold": "Credit reporting", "sec": 2.0753427909949096}
+{"pred": "Bank account", "p": 0.4377969511863135, "raw": null, "in_tok": 365, "out_tok": 10, "id": 5874255, "gold": "Bank account", "sec": 2.1961899580055615}
+{"pred": "Mortgage", "p": 0.926990875161093, "raw": null, "in_tok": 288, "out_tok": 11, "id": 3484301, "gold": "Mortgage", "sec": 1.8829704170057084}
+{"pred": "Credit card", "p": 0.9355463399792799, "raw": null, "in_tok": 440, "out_tok": 10, "id": 6579718, "gold": "Debt collection", "sec": 2.473886833002325}
+{"pred": "Mortgage", "p": 0.9421611561596295, "raw": null, "in_tok": 309, "out_tok": 14, "id": 6200420, "gold": "Vehicle loan", "sec": 2.164623999997275}
+{"pred": "Credit reporting", "p": 0.7931018586489815, "raw": null, "in_tok": 426, "out_tok": 10, "id": 3412064, "gold": "Credit card", "sec": 2.474914833001094}
+{"pred": "Bank account", "p": 0.9231766274901657, "raw": null, "in_tok": 539, "out_tok": 10, "id": 7001108, "gold": "Bank account", "sec": 2.8792301250068704}
+{"pred": "Money transfer", "p": 0.927969856389896, "raw": null, "in_tok": 376, "out_tok": 10, "id": 5907686, "gold": "Money transfer", "sec": 2.200342875003116}
+{"pred": "Credit reporting", "p": 0.8541466011430124, "raw": null, "in_tok": 458, "out_tok": 10, "id": 5983904, "gold": "Credit reporting", "sec": 2.6017681250086753}
+{"pred": "Mortgage", "p": 0.9718785356426447, "raw": null, "in_tok": 523, "out_tok": 14, "id": 2788205, "gold": "Mortgage", "sec": 3.0943335000047227}
+{"pred": "Mortgage", "p": 0.9810087137410755, "raw": null, "in_tok": 496, "out_tok": 11, "id": 6072328, "gold": "Mortgage", "sec": 2.7851615000108723}
+{"pred": "Credit card", "p": 0.9381429651515031, "raw": null, "in_tok": 432, "out_tok": 13, "id": 3379610, "gold": "Credit card", "sec": 2.6341992920060875}
+{"pred": "Mortgage", "p": 0.9796096130682529, "raw": null, "in_tok": 421, "out_tok": 11, "id": 4985100, "gold": "Personal loan", "sec": 2.513803249996272}
+{"pred": "Vehicle loan", "p": 0.9301449261797493, "raw": null, "in_tok": 580, "out_tok": 10, "id": 3640082, "gold": "Vehicle loan", "sec": 2.977683542005252}
+{"pred": "Credit reporting", "p": 0.6978684354886461, "raw": null, "in_tok": 232, "out_tok": 10, "id": 4042963, "gold": "Debt collection", "sec": 1.6931316669943044}
+{"pred": "Personal loan", "p": 0.4874095228408349, "raw": null, "in_tok": 220, "out_tok": 10, "id": 3222230, "gold": "Personal loan", "sec": 1.5444248330022674}
+{"pred": "Credit card", "p": 0.5232684734559699, "raw": null, "in_tok": 291, "out_tok": 10, "id": 3856920, "gold": "Money transfer", "sec": 1.9272074589971453}
+{"pred": "Mortgage", "p": 0.9848520498218951, "raw": null, "in_tok": 269, "out_tok": 11, "id": 3230904, "gold": "Mortgage", "sec": 1.9030958749935962}
+{"pred": "Debt collection", "p": 0.7936521284083424, "raw": null, "in_tok": 257, "out_tok": 11, "id": 3803555, "gold": "Debt collection", "sec": 1.728410832991358}
+{"pred": "Credit card", "p": 0.9055308802435316, "raw": null, "in_tok": 442, "out_tok": 10, "id": 3784232, "gold": "Credit card", "sec": 2.4727243749948684}
+{"pred": "Credit reporting", "p": 0.9378574073314969, "raw": null, "in_tok": 306, "out_tok": 10, "id": 6380218, "gold": "Credit reporting", "sec": 1.9285819590004394}
+{"pred": "Bank account", "p": 0.9452303894949813, "raw": null, "in_tok": 315, "out_tok": 10, "id": 2838704, "gold": "Bank account", "sec": 1.9397745419992134}
+{"pred": "Credit card", "p": 0.8992191357295864, "raw": null, "in_tok": 307, "out_tok": 13, "id": 3670355, "gold": "Money transfer", "sec": 2.0999601660005283}
+{"pred": "Mortgage", "p": 0.9737427553829904, "raw": null, "in_tok": 303, "out_tok": 11, "id": 5623109, "gold": "Mortgage", "sec": 1.9930288329924224}
+{"pred": "Credit reporting", "p": 0.9585633127075113, "raw": null, "in_tok": 236, "out_tok": 10, "id": 7362896, "gold": "Credit reporting", "sec": 1.688839750000625}
+{"pred": "Personal loan", "p": 0.9113516276639597, "raw": null, "in_tok": 570, "out_tok": 10, "id": 5059709, "gold": "Personal loan", "sec": 3.002789042002405}
+{"pred": "Money transfer", "p": 0.9482371214272217, "raw": null, "in_tok": 251, "out_tok": 10, "id": 3786311, "gold": "Money transfer", "sec": 1.690559624999878}
+{"pred": "Mortgage", "p": 0.9639091351984258, "raw": null, "in_tok": 274, "out_tok": 11, "id": 4642257, "gold": "Mortgage", "sec": 1.85474387499562}
+{"pred": "Credit reporting", "p": 0.9376956657395781, "raw": null, "in_tok": 356, "out_tok": 10, "id": 3030255, "gold": "Debt collection", "sec": 2.0720413329981966}
+{"pred": "Credit card", "p": 0.8151624008409608, "raw": null, "in_tok": 266, "out_tok": 10, "id": 6720225, "gold": "Credit reporting", "sec": 1.828447457999573}
+{"pred": "Money transfer", "p": 0.4236027450620067, "raw": null, "in_tok": 320, "out_tok": 10, "id": 4370040, "gold": "Bank account", "sec": 1.948626166995382}
+{"pred": "Vehicle loan", "p": 0.8901836238561832, "raw": null, "in_tok": 404, "out_tok": 10, "id": 4858501, "gold": "Vehicle loan", "sec": 2.3322498750058003}
+{"pred": "Credit reporting", "p": 0.5314126036812388, "raw": null, "in_tok": 331, "out_tok": 10, "id": 4373297, "gold": "Debt collection", "sec": 2.0661692499998026}
+{"pred": "Bank account", "p": 0.9385283957427234, "raw": null, "in_tok": 401, "out_tok": 10, "id": 6267911, "gold": "Bank account", "sec": 2.3258548750018235}
+{"pred": "Mortgage", "p": 0.9641514425438126, "raw": null, "in_tok": 417, "out_tok": 11, "id": 4253899, "gold": "Mortgage", "sec": 2.3888094579888275}
+{"pred": "Student loan", "p": 0.9003031207542608, "raw": null, "in_tok": 291, "out_tok": 10, "id": 6037898, "gold": "Student loan", "sec": 1.809104040992679}
+{"pred": "Money transfer", "p": 0.9086475927878499, "raw": null, "in_tok": 434, "out_tok": 10, "id": 5376380, "gold": "Money transfer", "sec": 2.4539479999948526}
+{"pred": "Bank account", "p": 0.7623366073696309, "raw": null, "in_tok": 212, "out_tok": 10, "id": 7202785, "gold": "Money transfer", "sec": 1.545732583006611}
+{"pred": "Bank account", "p": 0.41223693758972463, "raw": null, "in_tok": 430, "out_tok": 10, "id": 4740800, "gold": "Money transfer", "sec": 2.4476625000097556}
+{"pred": "Vehicle loan", "p": 0.9225631883132217, "raw": null, "in_tok": 355, "out_tok": 10, "id": 2821146, "gold": "Vehicle loan", "sec": 2.087707875005435}
+{"pred": "Student loan", "p": 0.9633096826618976, "raw": null, "in_tok": 344, "out_tok": 10, "id": 3548088, "gold": "Student loan", "sec": 2.0761043749953387}
+{"pred": "Personal loan", "p": 0.9559181539396902, "raw": null, "in_tok": 373, "out_tok": 10, "id": 6816008, "gold": "Personal loan", "sec": 2.196969374999753}
+{"pred": "Personal loan", "p": 0.9383970457960739, "raw": null, "in_tok": 325, "out_tok": 10, "id": 7069442, "gold": "Personal loan", "sec": 2.0638588340079878}
+{"pred": "Vehicle loan", "p": 0.8594672963646796, "raw": null, "in_tok": 220, "out_tok": 10, "id": 6673473, "gold": "Vehicle loan", "sec": 1.5672411249979632}
+{"pred": "Student loan", "p": 0.9379703255959951, "raw": null, "in_tok": 279, "out_tok": 10, "id": 7359893, "gold": "Student loan", "sec": 1.802988874987932}
+{"pred": "Vehicle loan", "p": 0.9446450796236657, "raw": null, "in_tok": 289, "out_tok": 10, "id": 3524369, "gold": "Vehicle loan", "sec": 1.818565417008358}
+{"pred": "Credit reporting", "p": 0.9053630978474526, "raw": null, "in_tok": 365, "out_tok": 10, "id": 6698122, "gold": "Credit reporting", "sec": 2.1846850000001723}
+{"pred": "Student loan", "p": 0.5435162060395962, "raw": null, "in_tok": 625, "out_tok": 10, "id": 7469062, "gold": "Student loan", "sec": 3.2620187499996973}
+{"pred": "Credit card", "p": 0.8690450980964531, "raw": null, "in_tok": 276, "out_tok": 10, "id": 5848272, "gold": "Credit card", "sec": 1.8266247080027824}
+{"pred": "Credit card", "p": 0.11061220018461033, "raw": null, "in_tok": 212, "out_tok": 10, "id": 4454860, "gold": "Vehicle loan", "sec": 1.5323667079937877}
+{"pred": "Personal loan", "p": 0.9463071283346867, "raw": null, "in_tok": 286, "out_tok": 10, "id": 4016917, "gold": "Personal loan", "sec": 1.8056349590042373}
+{"pred": "Mortgage", "p": 0.9722757889128801, "raw": null, "in_tok": 441, "out_tok": 11, "id": 4107407, "gold": "Mortgage", "sec": 2.5229104589961935}
+{"pred": "Credit reporting", "p": 0.933219258221343, "raw": null, "in_tok": 358, "out_tok": 10, "id": 5907623, "gold": "Credit reporting", "sec": 2.203558665991295}
+{"pred": "Vehicle loan", "p": 0.9189518237345085, "raw": null, "in_tok": 319, "out_tok": 10, "id": 6476389, "gold": "Vehicle loan", "sec": 1.957214334004675}
+{"pred": "Bank account", "p": 0.5538858111813316, "raw": null, "in_tok": 210, "out_tok": 10, "id": 6476635, "gold": "Bank account", "sec": 1.5310103750089183}
+{"pred": "Credit card", "p": 0.8953151056353726, "raw": null, "in_tok": 292, "out_tok": 10, "id": 6863898, "gold": "Credit card", "sec": 1.8213879160030046}
+{"pred": "Bank account", "p": 0.9547191624431302, "raw": null, "in_tok": 313, "out_tok": 10, "id": 7976869, "gold": "Bank account", "sec": 1.9389600409922423}
+{"pred": "Personal loan", "p": 0.2930116038437244, "raw": null, "in_tok": 406, "out_tok": 10, "id": 3970760, "gold": "Vehicle loan", "sec": 2.337417250004364}
+{"pred": "Bank account", "p": 0.9773103308531997, "raw": null, "in_tok": 321, "out_tok": 10, "id": 4985079, "gold": "Bank account", "sec": 1.9421117500023684}
+{"pred": "Personal loan", "p": 0.8706248547623616, "raw": null, "in_tok": 411, "out_tok": 10, "id": 2787682, "gold": "Personal loan", "sec": 2.3433487500005867}
+{"pred": "Bank account", "p": 0.6587794943774743, "raw": null, "in_tok": 235, "out_tok": 13, "id": 4371262, "gold": "Money transfer", "sec": 1.8489085829933174}
+{"pred": "Debt collection", "p": 0.9886282396845694, "raw": null, "in_tok": 350, "out_tok": 11, "id": 3473807, "gold": "Debt collection", "sec": 2.1173082500026794}
+{"pred": "Credit card", "p": 0.5008868113232157, "raw": null, "in_tok": 341, "out_tok": 10, "id": 5828515, "gold": "Personal loan", "sec": 2.104486457988969}
+{"pred": "Vehicle loan", "p": 0.9154084543249879, "raw": null, "in_tok": 450, "out_tok": 10, "id": 6441312, "gold": "Vehicle loan", "sec": 2.4652263750031125}
+{"pred": "Credit reporting", "p": 0.567173239295417, "raw": null, "in_tok": 202, "out_tok": 10, "id": 3843586, "gold": "Bank account", "sec": 1.5324610000097891}
+{"pred": "Personal loan", "p": 0.9691025341405631, "raw": null, "in_tok": 250, "out_tok": 10, "id": 3309213, "gold": "Personal loan", "sec": 1.6674294999975245}
+{"pred": "Student loan", "p": 0.9353959725731505, "raw": null, "in_tok": 249, "out_tok": 10, "id": 3105103, "gold": "Student loan", "sec": 1.6705450000008568}
+{"pred": "Credit reporting", "p": 0.9049052123959364, "raw": null, "in_tok": 274, "out_tok": 10, "id": 6902185, "gold": "Credit reporting", "sec": 1.795765749993734}
+{"pred": "Bank account", "p": 0.7973339710097754, "raw": null, "in_tok": 360, "out_tok": 13, "id": 5452866, "gold": "Bank account", "sec": 2.3415227090008557}
+{"pred": "Credit card", "p": 0.9126716561677815, "raw": null, "in_tok": 265, "out_tok": 10, "id": 2959703, "gold": "Debt collection", "sec": 1.8180997500021476}
+{"pred": "Debt collection", "p": 0.9673490963219856, "raw": null, "in_tok": 288, "out_tok": 11, "id": 3287682, "gold": "Personal loan", "sec": 1.85621779099165}
+{"pred": "Credit reporting", "p": 0.4501311079602284, "raw": null, "in_tok": 487, "out_tok": 10, "id": 6331510, "gold": "Credit card", "sec": 2.714882416999899}
+{"pred": "Money transfer", "p": 0.30291843092621856, "raw": null, "in_tok": 383, "out_tok": 10, "id": 6718732, "gold": "Money transfer", "sec": 2.202979374997085}
+{"pred": "Student loan", "p": 0.947615721925799, "raw": null, "in_tok": 456, "out_tok": 10, "id": 2889797, "gold": "Student loan", "sec": 2.5943074590031756}
+{"pred": "Vehicle loan", "p": 0.840606819818318, "raw": null, "in_tok": 579, "out_tok": 10, "id": 7364075, "gold": "Vehicle loan", "sec": 2.997476333010127}
+{"pred": "Credit card", "p": 0.9155125955199359, "raw": null, "in_tok": 522, "out_tok": 10, "id": 3779505, "gold": "Credit card", "sec": 2.859232583999983}
+{"pred": "Mortgage", "p": 0.9076772358355311, "raw": null, "in_tok": 234, "out_tok": 11, "id": 8007809, "gold": "Vehicle loan", "sec": 1.7211458329984453}
+{"pred": "Credit reporting", "p": 0.931895563130978, "raw": null, "in_tok": 273, "out_tok": 10, "id": 3076451, "gold": "Credit reporting", "sec": 1.7975400409923168}
+{"pred": "Bank account", "p": 0.8457065358081168, "raw": null, "in_tok": 644, "out_tok": 10, "id": 4239561, "gold": "Money transfer", "sec": 3.2330120420083404}
+{"pred": "Student loan", "p": 0.9691761667274692, "raw": null, "in_tok": 224, "out_tok": 10, "id": 3200571, "gold": "Student loan", "sec": 1.5463054590072716}
+{"pred": "Bank account", "p": 0.9573402928510267, "raw": null, "in_tok": 263, "out_tok": 10, "id": 2785151, "gold": "Bank account", "sec": 1.7930234579980606}
+{"pred": "Money transfer", "p": 0.6807183808130064, "raw": null, "in_tok": 250, "out_tok": 10, "id": 6521086, "gold": "Money transfer", "sec": 1.6683746249909746}
+{"pred": "Money transfer", "p": 0.5579059686054358, "raw": null, "in_tok": 206, "out_tok": 10, "id": 2783725, "gold": "Money transfer", "sec": 1.5230923750059446}
+{"pred": "Student loan", "p": 0.932697100482721, "raw": null, "in_tok": 229, "out_tok": 10, "id": 7460853, "gold": "Student loan", "sec": 1.6575944159994833}
+{"pred": "Vehicle loan", "p": 0.9333859962321923, "raw": null, "in_tok": 358, "out_tok": 10, "id": 4177156, "gold": "Vehicle loan", "sec": 2.196413833007682}
+{"pred": "Bank account", "p": 0.9316092003626552, "raw": null, "in_tok": 242, "out_tok": 10, "id": 3551594, "gold": "Money transfer", "sec": 1.6752793339983327}
+{"pred": "Student loan", "p": 0.8703849786698308, "raw": null, "in_tok": 514, "out_tok": 10, "id": 3629462, "gold": "Student loan", "sec": 2.7277609160082648}
+{"pred": "Mortgage", "p": 0.9700727628904211, "raw": null, "in_tok": 494, "out_tok": 11, "id": 2977429, "gold": "Mortgage", "sec": 2.782903459010413}
+{"pred": "Money transfer", "p": 0.9094290507848681, "raw": null, "in_tok": 307, "out_tok": 10, "id": 4238592, "gold": "Money transfer", "sec": 1.9493130420014495}
+{"pred": "Money transfer", "p": 0.8718446200707397, "raw": null, "in_tok": 501, "out_tok": 10, "id": 3628377, "gold": "Money transfer", "sec": 2.7230520000011893}
+{"pred": "Debt collection", "p": 0.7504595963194373, "raw": null, "in_tok": 235, "out_tok": 11, "id": 2980239, "gold": "Debt collection", "sec": 1.717002000004868}
+{"pred": "Vehicle loan", "p": 0.8933150229581481, "raw": null, "in_tok": 306, "out_tok": 10, "id": 4777194, "gold": "Vehicle loan", "sec": 1.9280147920071613}
+{"pred": "Vehicle loan", "p": 0.9275750133141986, "raw": null, "in_tok": 424, "out_tok": 10, "id": 6721536, "gold": "Vehicle loan", "sec": 2.4709937919978984}
+{"pred": "Vehicle loan", "p": 0.8399452743849541, "raw": null, "in_tok": 281, "out_tok": 10, "id": 3074953, "gold": "Vehicle loan", "sec": 1.8139087910094531}
+{"pred": "Student loan", "p": 0.844281285180455, "raw": null, "in_tok": 355, "out_tok": 10, "id": 2821095, "gold": "Student loan", "sec": 2.064769417003845}
+{"pred": "Debt collection", "p": 0.35679578332784767, "raw": null, "in_tok": 464, "out_tok": 11, "id": 6424888, "gold": "Personal loan", "sec": 2.6455594160070177}
+{"pred": "Bank account", "p": 0.9652094872582957, "raw": null, "in_tok": 332, "out_tok": 10, "id": 4985093, "gold": "Bank account", "sec": 2.0628141249908367}
+{"pred": "Vehicle loan", "p": 0.9148624090063969, "raw": null, "in_tok": 294, "out_tok": 10, "id": 2815207, "gold": "Vehicle loan", "sec": 1.9308444580092328}
+{"pred": "Debt collection", "p": 0.4898868962771105, "raw": null, "in_tok": 212, "out_tok": 11, "id": 3508575, "gold": "Debt collection", "sec": 1.5960502499947324}
+{"pred": "Bank account", "p": 0.6094271299276272, "raw": null, "in_tok": 270, "out_tok": 10, "id": 4989350, "gold": "Bank account", "sec": 1.794644875000813}
+{"pred": "Credit reporting", "p": 0.8353300161030317, "raw": null, "in_tok": 340, "out_tok": 10, "id": 7365544, "gold": "Credit card", "sec": 2.072496249995311}
+{"pred": "Student loan", "p": 0.9529745457603378, "raw": null, "in_tok": 525, "out_tok": 10, "id": 3200554, "gold": "Student loan", "sec": 2.8544548750069225}
+{"pred": "Credit reporting", "p": 0.9456998172540512, "raw": null, "in_tok": 288, "out_tok": 10, "id": 3022214, "gold": "Credit reporting", "sec": 1.8107329999911599}
+{"pred": "Mortgage", "p": 0.9832959160822293, "raw": null, "in_tok": 319, "out_tok": 11, "id": 3484380, "gold": "Mortgage", "sec": 1.9862217909976607}
+{"pred": "Credit reporting", "p": 0.9348842931036756, "raw": null, "in_tok": 217, "out_tok": 10, "id": 3200743, "gold": "Credit reporting", "sec": 1.5394568749907194}
+{"pred": "Student loan", "p": 0.8695599978959988, "raw": null, "in_tok": 397, "out_tok": 10, "id": 3016275, "gold": "Student loan", "sec": 2.319619750007405}
+{"pred": "Debt collection", "p": 0.9221418377232469, "raw": null, "in_tok": 403, "out_tok": 11, "id": 6921185, "gold": "Personal loan", "sec": 2.3829890829947544}
+{"pred": "Personal loan", "p": 0.7336664322087889, "raw": null, "in_tok": 445, "out_tok": 10, "id": 6439011, "gold": "Personal loan", "sec": 2.4659821250097593}
+{"pred": "Credit card", "p": 0.921492996124343, "raw": null, "in_tok": 477, "out_tok": 10, "id": 3970729, "gold": "Credit card", "sec": 2.6176657080068253}
+{"pred": "Credit card", "p": 0.8965868047359721, "raw": null, "in_tok": 605, "out_tok": 10, "id": 3779465, "gold": "Credit card", "sec": 3.165055499994196}
+{"pred": "Debt collection", "p": 0.9852544171843176, "raw": null, "in_tok": 224, "out_tok": 11, "id": 2837763, "gold": "Debt collection", "sec": 1.6114354169985745}
+{"pred": "Vehicle loan", "p": 0.9157211803902813, "raw": null, "in_tok": 404, "out_tok": 10, "id": 6207114, "gold": "Personal loan", "sec": 2.3430850410077255}
+{"pred": "Credit card", "p": 0.9231678268728235, "raw": null, "in_tok": 534, "out_tok": 10, "id": 4820826, "gold": "Credit card", "sec": 2.8984733340039384}
+{"pred": "Credit card", "p": 0.9197973987437039, "raw": null, "in_tok": 322, "out_tok": 10, "id": 4199275, "gold": "Credit card", "sec": 1.987564625000232}
+{"pred": "Money transfer", "p": 0.8865812348116326, "raw": null, "in_tok": 368, "out_tok": 10, "id": 6448997, "gold": "Money transfer", "sec": 2.211958166997647}
+{"pred": "Mortgage", "p": 0.98075530206485, "raw": null, "in_tok": 276, "out_tok": 11, "id": 6394373, "gold": "Mortgage", "sec": 1.881669416994555}
+{"pred": "Vehicle loan", "p": 0.8834708746414451, "raw": null, "in_tok": 566, "out_tok": 10, "id": 3648412, "gold": "Vehicle loan", "sec": 3.004655457989429}
+{"pred": "Credit reporting", "p": 0.942420983912219, "raw": null, "in_tok": 249, "out_tok": 10, "id": 3860556, "gold": "Credit reporting", "sec": 1.720862041998771}
+{"pred": "Student loan", "p": 0.6430031807780954, "raw": null, "in_tok": 444, "out_tok": 10, "id": 3548183, "gold": "Debt collection", "sec": 2.471811292009079}
+{"pred": "Vehicle loan", "p": 0.9620965887353369, "raw": null, "in_tok": 210, "out_tok": 10, "id": 3624714, "gold": "Vehicle loan", "sec": 1.573659375004354}
+{"pred": "Credit reporting", "p": 0.9159357524234184, "raw": null, "in_tok": 251, "out_tok": 10, "id": 6036543, "gold": "Credit reporting", "sec": 1.712145415993291}
+{"pred": "Debt collection", "p": 0.6762457959895485, "raw": null, "in_tok": 241, "out_tok": 11, "id": 5242884, "gold": "Debt collection", "sec": 1.736224417007179}
+{"pred": "Bank account", "p": 0.9554832976826603, "raw": null, "in_tok": 551, "out_tok": 10, "id": 6764548, "gold": "Bank account", "sec": 2.9996531249926193}
+{"pred": "Debt collection", "p": 0.9767540979438868, "raw": null, "in_tok": 254, "out_tok": 11, "id": 7989412, "gold": "Debt collection", "sec": 1.7490307090047281}
+{"pred": "Vehicle loan", "p": 0.8993066146781262, "raw": null, "in_tok": 353, "out_tok": 10, "id": 2926632, "gold": "Personal loan", "sec": 2.092972207989078}
+{"pred": "Vehicle loan", "p": 0.9446346808079221, "raw": null, "in_tok": 226, "out_tok": 10, "id": 3320656, "gold": "Vehicle loan", "sec": 1.576861875000759}
+{"pred": "Credit reporting", "p": 0.9549801854261993, "raw": null, "in_tok": 276, "out_tok": 10, "id": 3682469, "gold": "Credit reporting", "sec": 1.810509250004543}
+{"pred": "Bank account", "p": 0.8628123090289035, "raw": null, "in_tok": 294, "out_tok": 10, "id": 5125960, "gold": "Money transfer", "sec": 1.9352404169912916}
+{"pred": "Money transfer", "p": 0.9401286515502687, "raw": null, "in_tok": 365, "out_tok": 10, "id": 4238226, "gold": "Money transfer", "sec": 2.214078792007058}
+{"pred": "Bank account", "p": 0.9411190143484959, "raw": null, "in_tok": 266, "out_tok": 10, "id": 2787400, "gold": "Bank account", "sec": 1.8181544169929111}
+{"pred": "Money transfer", "p": 0.8221797571083377, "raw": null, "in_tok": 453, "out_tok": 10, "id": 2787765, "gold": "Money transfer", "sec": 2.597203665995039}
+{"pred": "Bank account", "p": 0.9387717245376785, "raw": null, "in_tok": 410, "out_tok": 10, "id": 4392687, "gold": "Bank account", "sec": 2.3618699999933597}
+{"pred": "Vehicle loan", "p": 0.30300591211273725, "raw": null, "in_tok": 479, "out_tok": 10, "id": 3302934, "gold": "Personal loan", "sec": 2.6111521669954527}
+{"pred": "Credit card", "p": 0.6819951159602645, "raw": null, "in_tok": 216, "out_tok": 10, "id": 5532806, "gold": "Credit reporting", "sec": 1.5539584579964867}
+{"pred": "Money transfer", "p": 0.39525736874129336, "raw": null, "in_tok": 399, "out_tok": 10, "id": 6676864, "gold": "Money transfer", "sec": 2.335378417003085}
+{"pred": "Mortgage", "p": 0.9725778936740206, "raw": null, "in_tok": 255, "out_tok": 11, "id": 6671542, "gold": "Mortgage", "sec": 1.752286582996021}
+{"pred": "Mortgage", "p": 0.9845540902363069, "raw": null, "in_tok": 291, "out_tok": 11, "id": 4147495, "gold": "Mortgage", "sec": 1.871646374987904}
+{"pred": "Student loan", "p": 0.9336051691875114, "raw": null, "in_tok": 470, "out_tok": 10, "id": 3320856, "gold": "Student loan", "sec": 2.6112520000024233}
+{"pred": "Bank account", "p": 0.6356718059982197, "raw": null, "in_tok": 293, "out_tok": 10, "id": 7653557, "gold": "Money transfer", "sec": 1.9558683750074124}
+{"pred": "Bank account", "p": 0.9639560224758791, "raw": null, "in_tok": 462, "out_tok": 10, "id": 5623129, "gold": "Bank account", "sec": 2.6293453329999465}
+{"pred": "Mortgage", "p": 0.9750306098401876, "raw": null, "in_tok": 501, "out_tok": 11, "id": 4085591, "gold": "Mortgage", "sec": 2.818750624996028}
+{"pred": "Mortgage", "p": 0.9647826649588764, "raw": null, "in_tok": 472, "out_tok": 11, "id": 5061495, "gold": "Mortgage", "sec": 2.666801082988968}
+{"pred": "Mortgage", "p": 0.3680856664895558, "raw": null, "in_tok": 260, "out_tok": 11, "id": 2937725, "gold": "Mortgage", "sec": 1.740242166997632}
+{"pred": "Debt collection", "p": 0.9487971308100769, "raw": null, "in_tok": 339, "out_tok": 11, "id": 3195575, "gold": "Personal loan", "sec": 2.130091792001622}
+{"pred": "Credit reporting", "p": 0.9676330500225446, "raw": null, "in_tok": 275, "out_tok": 10, "id": 3442541, "gold": "Credit reporting", "sec": 1.822247582997079}
+{"pred": "Credit card", "p": 0.9143915865442211, "raw": null, "in_tok": 320, "out_tok": 10, "id": 6300697, "gold": "Credit card", "sec": 1.9479342919948976}
+{"pred": "Credit reporting", "p": 0.9117502681585566, "raw": null, "in_tok": 210, "out_tok": 10, "id": 3671914, "gold": "Vehicle loan", "sec": 1.5636919170065084}
+{"pred": "Credit card", "p": 0.497338570292318, "raw": null, "in_tok": 317, "out_tok": 10, "id": 5620795, "gold": "Personal loan", "sec": 1.9543023750011344}
+{"pred": "Credit card", "p": 0.9055368258195733, "raw": null, "in_tok": 378, "out_tok": 10, "id": 5817195, "gold": "Credit card", "sec": 2.2176292089861818}
+{"pred": "Credit card", "p": 0.6927198752149434, "raw": null, "in_tok": 610, "out_tok": 10, "id": 3379683, "gold": "Money transfer", "sec": 3.1582061249937396}
+{"pred": "Credit reporting", "p": 0.9196587973409605, "raw": null, "in_tok": 410, "out_tok": 10, "id": 7135176, "gold": "Credit reporting", "sec": 2.371240125008626}
+{"pred": "Mortgage", "p": 0.9773690437473099, "raw": null, "in_tok": 413, "out_tok": 11, "id": 3311187, "gold": "Mortgage", "sec": 2.4282470420002937}
+{"pred": "Credit card", "p": 0.8831493144164736, "raw": null, "in_tok": 333, "out_tok": 10, "id": 3628315, "gold": "Credit card", "sec": 2.10404008399928}
+{"pred": "Bank account", "p": 0.936943193979093, "raw": null, "in_tok": 218, "out_tok": 10, "id": 2977399, "gold": "Bank account", "sec": 1.5836966249917168}
+{"pred": "Money transfer", "p": 0.8553913124177615, "raw": null, "in_tok": 216, "out_tok": 10, "id": 6043707, "gold": "Money transfer", "sec": 1.5456451670033857}
+{"pred": "Mortgage", "p": 0.979455438992201, "raw": null, "in_tok": 321, "out_tok": 11, "id": 2980130, "gold": "Mortgage", "sec": 2.0053172080079094}
+{"pred": "Student loan", "p": 0.7642215844309053, "raw": null, "in_tok": 470, "out_tok": 10, "id": 7651919, "gold": "Student loan", "sec": 2.611033708002651}
+{"pred": "Credit reporting", "p": 0.9536622577711631, "raw": null, "in_tok": 196, "out_tok": 10, "id": 3487330, "gold": "Debt collection", "sec": 1.4507541250059148}
+{"pred": "Student loan", "p": 0.8897027127374555, "raw": null, "in_tok": 521, "out_tok": 10, "id": 7990410, "gold": "Student loan", "sec": 2.8498509580094833}
+{"pred": "Vehicle loan", "p": 0.9499196175044525, "raw": null, "in_tok": 200, "out_tok": 10, "id": 3673054, "gold": "Personal loan", "sec": 1.5573507090011844}
+{"pred": "Mortgage", "p": 0.6651207423403371, "raw": null, "in_tok": 402, "out_tok": 11, "id": 3779332, "gold": "Mortgage", "sec": 2.384803833992919}
+{"pred": "Credit card", "p": 0.9259874061968401, "raw": null, "in_tok": 564, "out_tok": 10, "id": 3760873, "gold": "Credit card", "sec": 2.9976737499964656}
+{"pred": "Personal loan", "p": 0.34789327684929233, "raw": null, "in_tok": 267, "out_tok": 10, "id": 5376562, "gold": "Personal loan", "sec": 1.8341160830023}
+{"pred": "Credit reporting", "p": 0.8781820106354412, "raw": null, "in_tok": 287, "out_tok": 10, "id": 6524641, "gold": "Student loan", "sec": 1.8428853749937844}
+{"pred": "Credit card", "p": 0.7065185788987017, "raw": null, "in_tok": 583, "out_tok": 13, "id": 6048239, "gold": "Personal loan", "sec": 3.2889239590003854}
+{"pred": "Credit reporting", "p": 0.9344268076179816, "raw": null, "in_tok": 313, "out_tok": 13, "id": 3685989, "gold": "Vehicle loan", "sec": 2.136341125005856}
+{"pred": "Vehicle loan", "p": 0.888169710147317, "raw": null, "in_tok": 450, "out_tok": 10, "id": 6296407, "gold": "Personal loan", "sec": 2.4809146670013433}
+{"pred": "Credit card", "p": 0.9195969413505629, "raw": null, "in_tok": 455, "out_tok": 10, "id": 3640433, "gold": "Credit card", "sec": 2.6119649169995682}
+{"pred": "Credit card", "p": 0.8739613840808028, "raw": null, "in_tok": 238, "out_tok": 10, "id": 3720726, "gold": "Credit card", "sec": 1.7051605000015115}
+{"pred": "Student loan", "p": 0.87707284065422, "raw": null, "in_tok": 351, "out_tok": 10, "id": 3029621, "gold": "Student loan", "sec": 2.0863129589997698}
+{"pred": "Credit card", "p": 0.9479084314775249, "raw": null, "in_tok": 493, "out_tok": 10, "id": 3030206, "gold": "Credit card", "sec": 2.7586449579976033}
+{"pred": "Debt collection", "p": 0.8260807702929305, "raw": null, "in_tok": 288, "out_tok": 11, "id": 2838667, "gold": "Personal loan", "sec": 1.8899907500017434}
+{"pred": "Money transfer", "p": 0.9189798033006403, "raw": null, "in_tok": 565, "out_tok": 10, "id": 3621837, "gold": "Money transfer", "sec": 3.0011612090020208}
+{"pred": "Mortgage", "p": 0.9817356427464439, "raw": null, "in_tok": 294, "out_tok": 11, "id": 3029271, "gold": "Mortgage", "sec": 2.020775541997864}
+{"pred": "Credit card", "p": 0.9265663459266791, "raw": null, "in_tok": 377, "out_tok": 10, "id": 6201006, "gold": "Credit card", "sec": 2.211419666011352}
+{"pred": "Credit card", "p": 0.49599628449814837, "raw": null, "in_tok": 354, "out_tok": 10, "id": 5659302, "gold": "Personal loan", "sec": 2.0969955420005135}
+{"pred": "Credit card", "p": 0.8923508268294363, "raw": null, "in_tok": 499, "out_tok": 10, "id": 5062942, "gold": "Credit card", "sec": 2.7826318750012433}
+{"pred": "Vehicle loan", "p": 0.7986143412582788, "raw": null, "in_tok": 391, "out_tok": 10, "id": 7238285, "gold": "Vehicle loan", "sec": 2.343320832995232}
+{"pred": "Credit card", "p": 0.9269863494853015, "raw": null, "in_tok": 223, "out_tok": 10, "id": 7364929, "gold": "Credit card", "sec": 1.5598538749909494}
+{"pred": "Mortgage", "p": 0.9800668715031667, "raw": null, "in_tok": 382, "out_tok": 11, "id": 4440267, "gold": "Mortgage", "sec": 2.261485957991681}
+{"pred": "Debt collection", "p": 0.9694991352819361, "raw": null, "in_tok": 259, "out_tok": 11, "id": 5364352, "gold": "Debt collection", "sec": 1.7555005000031088}
+{"pred": "Bank account", "p": 0.6332193664456354, "raw": null, "in_tok": 271, "out_tok": 10, "id": 3549051, "gold": "Personal loan", "sec": 1.8109579590091016}
+{"pred": "Bank account", "p": 0.7837696807315429, "raw": null, "in_tok": 283, "out_tok": 13, "id": 6721007, "gold": "Bank account", "sec": 1.9842964999988908}
+{"pred": "Personal loan", "p": 0.9045019697765304, "raw": null, "in_tok": 244, "out_tok": 10, "id": 6562094, "gold": "Personal loan", "sec": 1.6812898339994717}
+{"pred": "Debt collection", "p": 0.7202144544618194, "raw": null, "in_tok": 618, "out_tok": 11, "id": 6501509, "gold": "Credit reporting", "sec": 3.3153409590013325}
+{"pred": "Mortgage", "p": 0.9808600433843156, "raw": null, "in_tok": 322, "out_tok": 11, "id": 3640036, "gold": "Mortgage", "sec": 2.0268610420025652}
+{"pred": "Vehicle loan", "p": 0.9481600679488306, "raw": null, "in_tok": 233, "out_tok": 10, "id": 7204324, "gold": "Vehicle loan", "sec": 1.6981428750004852}
+{"pred": "Personal loan", "p": 0.9145599220525471, "raw": null, "in_tok": 601, "out_tok": 10, "id": 2955700, "gold": "Personal loan", "sec": 3.1428872079995926}
+{"pred": "Bank account", "p": 0.8891313715415451, "raw": null, "in_tok": 216, "out_tok": 10, "id": 4183244, "gold": "Money transfer", "sec": 1.5950168749986915}
+{"pred": "Vehicle loan", "p": 0.9426546323639354, "raw": null, "in_tok": 536, "out_tok": 10, "id": 7649379, "gold": "Vehicle loan", "sec": 2.8816845000110334}
+{"pred": "Money transfer", "p": 0.9481777135172856, "raw": null, "in_tok": 269, "out_tok": 10, "id": 8000779, "gold": "Money transfer", "sec": 1.8193803329922957}
+{"pred": "Credit reporting", "p": 0.4365070195653315, "raw": null, "in_tok": 217, "out_tok": 10, "id": 7727905, "gold": "Credit card", "sec": 1.5568927909916965}
+{"pred": "Bank account", "p": 0.269456820422411, "raw": null, "in_tok": 402, "out_tok": 10, "id": 4107412, "gold": "Personal loan", "sec": 2.352132291009184}
+{"pred": "Bank account", "p": 0.9613432833741189, "raw": null, "in_tok": 393, "out_tok": 10, "id": 3484413, "gold": "Bank account", "sec": 2.3552841669879854}
+{"pred": "Debt collection", "p": 0.7194862205567996, "raw": null, "in_tok": 237, "out_tok": 11, "id": 5242810, "gold": "Debt collection", "sec": 1.7433803329913644}
+{"pred": "Bank account", "p": 0.9574068850996716, "raw": null, "in_tok": 225, "out_tok": 13, "id": 4820830, "gold": "Bank account", "sec": 1.7109804169886047}
+{"pred": "Credit reporting", "p": 0.9660317494402483, "raw": null, "in_tok": 394, "out_tok": 10, "id": 3374022, "gold": "Credit reporting", "sec": 2.3538297080085613}
+{"pred": "Credit reporting", "p": 0.6731241874511472, "raw": null, "in_tok": 231, "out_tok": 10, "id": 7987988, "gold": "Credit reporting", "sec": 1.6908552080130903}
+{"pred": "Student loan", "p": 0.9283860904292853, "raw": null, "in_tok": 219, "out_tok": 10, "id": 6737019, "gold": "Debt collection", "sec": 1.541616292000981}
+{"pred": "Bank account", "p": 0.9607531424890271, "raw": null, "in_tok": 232, "out_tok": 10, "id": 3230604, "gold": "Credit card", "sec": 1.673761458005174}
+{"pred": "Credit card", "p": 0.483965336498071, "raw": null, "in_tok": 373, "out_tok": 10, "id": 7116014, "gold": "Personal loan", "sec": 2.2160457910067635}
+{"pred": "Mortgage", "p": 0.978871048335504, "raw": null, "in_tok": 255, "out_tok": 11, "id": 6474043, "gold": "Mortgage", "sec": 1.7547721669980092}
+{"pred": "Debt collection", "p": 0.6011494149794012, "raw": null, "in_tok": 539, "out_tok": 11, "id": 4572719, "gold": "Debt collection", "sec": 2.969223707987112}
+{"pred": "Credit reporting", "p": 0.9302818710946603, "raw": null, "in_tok": 238, "out_tok": 13, "id": 3075866, "gold": "Debt collection", "sec": 1.867922291989089}
+{"pred": "Student loan", "p": 0.9109846084777816, "raw": null, "in_tok": 390, "out_tok": 10, "id": 3484398, "gold": "Student loan", "sec": 2.333680333002121}
+{"pred": "Debt collection", "p": 0.7669140980112271, "raw": null, "in_tok": 369, "out_tok": 11, "id": 6200537, "gold": "Debt collection", "sec": 2.2675672079931246}
+{"pred": "Debt collection", "p": 0.97085812322626, "raw": null, "in_tok": 242, "out_tok": 11, "id": 2786502, "gold": "Debt collection", "sec": 1.7564892079972196}
+{"pred": "Student loan", "p": 0.9002303979303468, "raw": null, "in_tok": 251, "out_tok": 10, "id": 5147738, "gold": "Student loan", "sec": 1.686234875000082}
+{"pred": "Bank account", "p": 0.9442299558301341, "raw": null, "in_tok": 334, "out_tok": 10, "id": 7363682, "gold": "Bank account", "sec": 2.0699615000048652}
+{"pred": "Vehicle loan", "p": 0.93595738458111, "raw": null, "in_tok": 259, "out_tok": 10, "id": 4204384, "gold": "Vehicle loan", "sec": 1.7091405829996802}
+{"pred": "Credit reporting", "p": 0.9310071682658547, "raw": null, "in_tok": 273, "out_tok": 10, "id": 5654184, "gold": "Credit reporting", "sec": 1.8195058749988675}
+{"pred": "Mortgage", "p": 0.9800023835517565, "raw": null, "in_tok": 529, "out_tok": 11, "id": 3502528, "gold": "Mortgage", "sec": 2.9430119590106187}
+{"pred": "Credit reporting", "p": 0.9618831100281963, "raw": null, "in_tok": 203, "out_tok": 10, "id": 7718631, "gold": "Credit reporting", "sec": 1.6043072079919511}
+{"pred": "Debt collection", "p": 0.5719761234902273, "raw": null, "in_tok": 260, "out_tok": 11, "id": 2845449, "gold": "Debt collection", "sec": 1.7416745839873329}
+{"pred": "Student loan", "p": 0.9589229939072428, "raw": null, "in_tok": 227, "out_tok": 13, "id": 3412089, "gold": "Student loan", "sec": 1.7271787500067148}
+{"pred": "Money transfer", "p": 0.49109697059553786, "raw": null, "in_tok": 240, "out_tok": 10, "id": 5817196, "gold": "Money transfer", "sec": 1.6839145830017515}
+{"pred": "Credit reporting", "p": 0.3507087193562082, "raw": null, "in_tok": 329, "out_tok": 10, "id": 3783999, "gold": "Student loan", "sec": 2.102830082993023}
+{"pred": "Mortgage", "p": 0.9862631427879612, "raw": null, "in_tok": 220, "out_tok": 11, "id": 3588569, "gold": "Mortgage", "sec": 1.6241776249953546}
+{"pred": "Student loan", "p": 0.9074167334276685, "raw": null, "in_tok": 414, "out_tok": 10, "id": 2977437, "gold": "Student loan", "sec": 2.3631936669989955}
+{"pred": "Money transfer", "p": 0.6474687224950015, "raw": null, "in_tok": 539, "out_tok": 10, "id": 5659351, "gold": "Money transfer", "sec": 2.8939248750102706}
+{"pred": "Mortgage", "p": 0.9718723906102342, "raw": null, "in_tok": 528, "out_tok": 11, "id": 3909517, "gold": "Mortgage", "sec": 2.9420244159991853}
+{"pred": "Student loan", "p": 0.9589566617706788, "raw": null, "in_tok": 253, "out_tok": 10, "id": 3575685, "gold": "Student loan", "sec": 1.7035153330070898}
+{"pred": "Credit card", "p": 0.8438325966298708, "raw": null, "in_tok": 339, "out_tok": 10, "id": 4185699, "gold": "Credit card", "sec": 2.0838282500044443}
+{"pred": "Vehicle loan", "p": 0.9320308986756238, "raw": null, "in_tok": 520, "out_tok": 10, "id": 3837065, "gold": "Vehicle loan", "sec": 2.8712862499960465}
+{"pred": "Credit reporting", "p": 0.8143132976189384, "raw": null, "in_tok": 342, "out_tok": 10, "id": 5245360, "gold": "Credit reporting", "sec": 2.096649457991589}
+{"pred": "Money transfer", "p": 0.45655280091617895, "raw": null, "in_tok": 214, "out_tok": 10, "id": 6087740, "gold": "Credit card", "sec": 1.5658337500062771}
+{"pred": "Bank account", "p": 0.9324859193365198, "raw": null, "in_tok": 552, "out_tok": 10, "id": 5364574, "gold": "Bank account", "sec": 3.006404375002603}
+{"pred": "Credit reporting", "p": 0.9337235791657214, "raw": null, "in_tok": 256, "out_tok": 10, "id": 3076509, "gold": "Credit reporting", "sec": 1.7067654580023373}
+{"pred": "Credit card", "p": 0.8810745107418246, "raw": null, "in_tok": 325, "out_tok": 10, "id": 3575690, "gold": "Credit card", "sec": 2.070666416999302}
+{"pred": "Vehicle loan", "p": 0.9200903342313218, "raw": null, "in_tok": 464, "out_tok": 10, "id": 5855873, "gold": "Vehicle loan", "sec": 2.630826207998325}
+{"pred": "Personal loan", "p": 0.9425362976552737, "raw": null, "in_tok": 515, "out_tok": 10, "id": 3222075, "gold": "Personal loan", "sec": 2.7588395829952788}
+{"pred": "Credit card", "p": 0.8194257286134146, "raw": null, "in_tok": 247, "out_tok": 10, "id": 3493965, "gold": "Bank account", "sec": 1.7259727909986395}
+{"pred": "Money transfer", "p": 0.31290704506225636, "raw": null, "in_tok": 504, "out_tok": 10, "id": 5154886, "gold": "Bank account", "sec": 2.759064750003745}
